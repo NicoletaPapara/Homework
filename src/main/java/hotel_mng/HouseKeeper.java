@@ -1,4 +1,4 @@
 package hotel_mng;
 
-public class HouseKeeper {
+public class HouseKeeper extends Employee {
 }

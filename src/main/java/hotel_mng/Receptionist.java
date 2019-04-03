@@ -1,4 +1,4 @@
 package hotel_mng;
 
-public class Receptionist {
+public class Receptionist extends Employee{
 }
