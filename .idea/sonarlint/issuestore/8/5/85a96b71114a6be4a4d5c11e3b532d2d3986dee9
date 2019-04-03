@@ -1,10 +1,0 @@
-
-Qsquid:S1481".Remove this unused "firstBook" local variable.(¦õœøÿÿÿÿ8íÍéõ-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(½„©ıÿÿÿÿ8Ñ’ãõ-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûĞâ¹üÿÿÿÿ
-`squid:S1854"=Remove this useless assignment to local variable "firstBook".(¦õœøÿÿÿÿ8íÍéõ-
-\squid:S1854
-">Remove this useless assignment to local variable "firstAlbum".(òì²8ÌÄÔõ-
-Msquid:S1481
-"/Remove this unused "firstAlbum" local variable.(òì²8ÌÄÔõ-
