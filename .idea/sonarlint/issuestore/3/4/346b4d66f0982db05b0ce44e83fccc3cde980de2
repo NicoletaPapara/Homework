@@ -1,0 +1,9 @@
+
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À–®»ÿÿÿÿÿ8¨ö-
+Dsquid:S1170"!Make this final field static too.(Ô°œøÿÿÿÿ8ÓÀƒ÷-
+Nsquid:S1068
+"0Remove this unused "fuelTankSize" private field.(‡º—„8Ñ·•ö-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‰›úÿÿÿÿ
+|squid:S1450"^Remove the "consumptionRate" field and declare it as a local variable in the relevant methods.(‚ÙÖ8áóö-
+]squid:S1068":Remove this unused "averageFuelConsumption" private field.(±Ä‚ûÿÿÿÿ8Úå´÷-
+Qsquid:S1068"3Remove this unused "consumptionRate" private field.(‚ÙÖ8Ù¤òö-
