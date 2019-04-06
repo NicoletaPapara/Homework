@@ -2,3 +2,5 @@ pom.xml
 README.md
 Homework.iml
 *.idea
+/.idea
+/.target/
