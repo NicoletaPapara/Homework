@@ -1,15 +1,15 @@
-package hotel_mng.hotel;
+package hotelmng.hotel;
 
 /**
  * This class models a room of the hotel
  */
 
 public class Room {
-    private final int RoomNumber;
+    private final int roomNumber;
     private boolean isReserved;
 
     public Room(int roomNumber) {
-        RoomNumber = roomNumber;
+        this.roomNumber = roomNumber;
     }
 
     public boolean isReserved() {

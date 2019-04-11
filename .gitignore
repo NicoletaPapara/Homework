@@ -3,4 +3,4 @@ README.md
 Homework.iml
 *.idea
 /.idea
-/.target/
+/target

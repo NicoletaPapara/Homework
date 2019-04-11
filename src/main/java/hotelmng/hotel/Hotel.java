@@ -1,12 +1,18 @@
-package hotel_mng.hotel;
+package hotelmng.hotel;
+
+import hotelmng.employees.Employee;
+import hotelmng.employees.KitchenStaff;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
- * This class models a hotel. It has a collection of rooms.
+ * This class models a hotel. It has an array of rooms.
  */
 
 public class Hotel {
 
-    final private int numberOfRooms;
+    private final int numberOfRooms;
     private String name;
     private String address;
     private int capacity;
@@ -19,11 +25,9 @@ public class Hotel {
 
         //creates the rooms of the hotel based on number of rooms set
 
-        for (int i=0; i<numberOfRooms; i++){
-            rooms[i] = new Room(i+1);
+        for (int i = 0; i < numberOfRooms; i++) {
+            rooms[i] = new Room(i + 1);
         }
     }
-
-
 
 }

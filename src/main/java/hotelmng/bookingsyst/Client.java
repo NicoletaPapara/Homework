@@ -1,4 +1,4 @@
-package hotel_mng.booking_syst;
+package hotelmng.bookingsyst;
 
 /**
  * This class models a client
