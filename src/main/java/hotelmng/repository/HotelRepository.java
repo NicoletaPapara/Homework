@@ -21,7 +21,7 @@ public class HotelRepository implements IHotelRepository {
         return hotelList;
     }
 
-    public int getSize(){
+    public int getSize() {
         return hotelList.size();
     }
 }

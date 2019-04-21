@@ -1,4 +1,4 @@
-package hotelmng.models;
+package hotelmng.models.hotel;
 
 import hotelmng.models.hotel.Room;
 import hotelmng.models.person.Client;

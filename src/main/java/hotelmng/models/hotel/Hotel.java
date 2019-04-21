@@ -17,31 +17,27 @@ public class Hotel {
         this.name = name;
         this.numberOfRooms = numberOfRooms;
 
-        rooms= new Room[numberOfRooms];
+        rooms = new Room[numberOfRooms];
 
         //creates the rooms of the hotel based on number of rooms set
 
         for (int i = 0; i < numberOfRooms; i++) {
-            rooms[i] = new Room(i + 1);
+            rooms[i] = new Room(i, false);
         }
     }
 
-    public double checkStatus() {
+    public int checkStatus() {
         int reservedRooms = 0;
         for (int i = 0; i < numberOfRooms; i++) {
             if (rooms[i].isReserved()) {
                 reservedRooms += 1;
             }
         }
-        return Math.round((reservedRooms / numberOfRooms) * 100);
+        return (reservedRooms * 100) / numberOfRooms;
     }
 
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public String getAddress() {
@@ -55,4 +51,9 @@ public class Hotel {
     public int getNumberOfRooms() {
         return numberOfRooms;
     }
+
+    public Room getRoom(int roomNumber) {
+        return rooms[roomNumber];
+    }
+
 }

@@ -12,6 +12,11 @@ public class Room {
         this.roomNumber = roomNumber;
     }
 
+    public Room(int roomNumber, boolean isReserved) {
+        this.roomNumber = roomNumber;
+        this.isReserved = isReserved;
+    }
+
     public boolean isReserved() {
         return isReserved;
     }

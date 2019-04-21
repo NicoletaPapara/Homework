@@ -20,13 +20,11 @@ public class HotelRepositoryTest {
     @Test
     public void shouldAddWhenEmpty() {
         //GIVEN
-        Hotel hotel1 = new Hotel("abcd",20);
+        Hotel hotel1 = new Hotel("abcd", 20);
         //WHEN
         hotelRepository.add(hotel1);
         int response = hotelRepository.getSize();
         //THEN
-        assertEquals(1,response);
+        assertEquals(1, response);
     }
-
-
 }

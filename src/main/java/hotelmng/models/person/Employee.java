@@ -10,7 +10,7 @@ public abstract class Employee {
     private static final int MIN_AGE = 18;
     private static final int MAX_AGE = 60;
     private final int id;
-    private final int cnp;
+    private final long cnp;
     private String name;
     private String address;
     private String phoneNumber;
@@ -23,7 +23,7 @@ public abstract class Employee {
 
     private boolean isAtWork = false;
 
-    public Employee(int id, int cnp, String name) {
+    public Employee(int id, long cnp, String name) {
         this.id = id;
         this.cnp = cnp;
         this.name = name;

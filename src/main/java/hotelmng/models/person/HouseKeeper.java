@@ -9,7 +9,7 @@ import hotelmng.models.person.Employee;
 public class HouseKeeper extends Employee {
 
 
-    public HouseKeeper(int id, int cnp, String name) {
+    public HouseKeeper(int id, long cnp, String name) {
         super(id, cnp, name);
     }
 

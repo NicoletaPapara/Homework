@@ -8,7 +8,7 @@ import hotelmng.models.person.Employee;
 
 public class KitchenStaff extends Employee {
 
-    public KitchenStaff(int id, int cnp, String name) {
+    public KitchenStaff(int id, long cnp, String name) {
         super(id, cnp, name);
     }
 
