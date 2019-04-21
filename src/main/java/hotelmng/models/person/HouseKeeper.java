@@ -1,4 +1,6 @@
-package hotelmng.employees;
+package hotelmng.models.person;
+
+import hotelmng.models.person.Employee;
 
 /**
  * HouseKeeper is an employee that will be able to clean rooms
@@ -7,8 +9,8 @@ package hotelmng.employees;
 public class HouseKeeper extends Employee {
 
 
-    public HouseKeeper(int id, String name, String address, String phoneNumber) {
-        super(id, name, address, phoneNumber);
+    public HouseKeeper(int id, int cnp, String name) {
+        super(id, cnp, name);
     }
 
     @Override

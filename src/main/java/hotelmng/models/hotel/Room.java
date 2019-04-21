@@ -1,4 +1,4 @@
-package hotelmng.hotel;
+package hotelmng.models.hotel;
 
 /**
  * This class models a room of the hotel
