@@ -1,6 +1,6 @@
 package hotelmng.repository;
 
-import hotelmng.models.hotel.Hotel;
+import hotelmng.model.hotel.Hotel;
 import org.junit.Before;
 import org.junit.Test;
 

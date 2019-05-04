@@ -1,6 +1,4 @@
-package hotelmng.models.person;
-
-import hotelmng.models.person.Employee;
+package hotelmng.model.person;
 
 /**
  * KitchenStaff is an employee that will be able to make food
@@ -8,7 +6,7 @@ import hotelmng.models.person.Employee;
 
 public class KitchenStaff extends Employee {
 
-    public KitchenStaff(int id, long cnp, String name) {
+    public KitchenStaff(int id, String cnp, String name) {
         super(id, cnp, name);
     }
 

@@ -1,11 +1,16 @@
 package hotelmng.service;
 
-import hotelmng.models.hotel.Hotel;
+import hotelmng.model.hotel.Hotel;
 import hotelmng.repository.HotelRepository;
 
 public class HotelService {
 
     private HotelRepository hotelRepository;
+
+
+    public HotelService(HotelRepository hotelRepository) {
+        this.hotelRepository = hotelRepository;
+    }
 
     public String validateAndAdd(Hotel hotel) {
 
@@ -28,8 +33,12 @@ public class HotelService {
         return "HOTEL ADDED TO REPO";
 
     }
-
-    public HotelService(HotelRepository hotelRepository){
-        this.hotelRepository = hotelRepository;
+    @SuppressWarnings({"deprecation"})
+    public void validateAndRemove(Hotel hotel){
+        if(hotel.checkHotelBookingStatus()!=0) {
+            throw new RemoveHotelValidationException("Cannot remove the hotel as long as rooms are reserved");
+        }
+        hotelRepository.delete(hotel);
     }
+
 }

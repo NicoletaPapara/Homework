@@ -1,6 +1,6 @@
 package hotelmng.service;
 
-import hotelmng.models.hotel.Hotel;
+import hotelmng.model.hotel.Hotel;
 import hotelmng.repository.HotelRepository;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,6 +10,8 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 
 import static org.junit.Assert.assertEquals;
+import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.Mockito.doReturn;
 
 @RunWith(MockitoJUnitRunner.class)
 public class HotelServiceTest {
@@ -40,6 +42,7 @@ public class HotelServiceTest {
     public void shouldNotAdd_HotelWithLessThenTenRooms(){
         //GIVEN
         Hotel hotel= new Hotel("abcd", 9);
+        doReturn(true).when(hotelRepository).add(any(Hotel.class));
 
         //WHEN
         String response = hotelService.validateAndAdd(hotel);

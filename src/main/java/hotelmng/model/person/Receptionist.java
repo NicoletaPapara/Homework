@@ -1,6 +1,4 @@
-package hotelmng.models.person;
-
-import hotelmng.models.person.Employee;
+package hotelmng.model.person;
 
 /**
  * Receptionist is an employee that will be able to confirm and cancel reservations based on client's request
@@ -9,7 +7,7 @@ import hotelmng.models.person.Employee;
 
 public class Receptionist extends Employee {
 
-    public Receptionist(int id, long cnp, String name) {
+    public Receptionist(int id, String cnp, String name) {
         super(id, cnp, name);
     }
 

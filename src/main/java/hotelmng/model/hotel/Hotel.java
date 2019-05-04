@@ -1,4 +1,4 @@
-package hotelmng.models.hotel;
+package hotelmng.model.hotel;
 
 /**
  * This class models a hotel. It has an array of rooms.
@@ -19,14 +19,15 @@ public class Hotel {
 
         rooms = new Room[numberOfRooms];
 
-        //creates the rooms of the hotel based on number of rooms set
+        //creates the rooms of the hotel based on number of the rooms set
 
         for (int i = 0; i < numberOfRooms; i++) {
             rooms[i] = new Room(i, false);
         }
     }
 
-    public int checkStatus() {
+    @Deprecated
+    public int checkHotelBookingStatus() {
         int reservedRooms = 0;
         for (int i = 0; i < numberOfRooms; i++) {
             if (rooms[i].isReserved()) {

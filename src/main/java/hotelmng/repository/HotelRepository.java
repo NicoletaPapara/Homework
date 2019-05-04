@@ -1,6 +1,6 @@
 package hotelmng.repository;
 
-import hotelmng.models.hotel.Hotel;
+import hotelmng.model.hotel.Hotel;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,8 +9,9 @@ public class HotelRepository implements IHotelRepository {
 
     private List<Hotel> hotelList = new ArrayList<Hotel>();
 
-    public void add(Hotel hotel) {
+    public boolean add(Hotel hotel) {
         hotelList.add(hotel);
+        return true;
     }
 
     public void delete(Hotel hotel) {

@@ -1,5 +1,6 @@
-package hotelmng.models.hotel;
+package hotelmng.model.person;
 
+import hotelmng.model.hotel.Hotel;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -16,7 +17,7 @@ public class HotelTest {
         hotel.getRoom(5).setReserved(true);
 
         //WHEN
-        int response = hotel.checkStatus();
+        int response = hotel.checkHotelBookingStatus();
 
         //THEN
         assertEquals(30, response);
