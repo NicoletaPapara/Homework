@@ -1,4 +1,4 @@
-package hotelmng.service;
+package hotelmng.exception;
 
 public class RemoveHotelValidationException extends RuntimeException {
     public RemoveHotelValidationException(String message) {

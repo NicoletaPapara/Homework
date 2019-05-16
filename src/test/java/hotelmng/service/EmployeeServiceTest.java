@@ -1,5 +1,6 @@
 package hotelmng.service;
 
+import hotelmng.exception.EmployeeAgeValidationException;
 import hotelmng.model.person.Employee;
 import hotelmng.model.person.Receptionist;
 import hotelmng.repository.EmployeeRepository;
@@ -18,7 +19,7 @@ public class EmployeeServiceTest {
     private EmployeeRepository employeeRepository;
 
     @Before
-    public void setup(){
+    public void setup() {
         employeeService = new EmployeeService(employeeRepository);
     }
 
@@ -31,4 +32,6 @@ public class EmployeeServiceTest {
         employeeService.validateAndAdd(employee);
 
     }
+
+
 }

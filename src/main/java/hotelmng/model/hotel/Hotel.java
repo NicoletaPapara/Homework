@@ -1,10 +1,12 @@
 package hotelmng.model.hotel;
 
+import java.io.Serializable;
+
 /**
  * This class models a hotel. It has an array of rooms.
  */
 
-public class Hotel {
+public class Hotel implements Serializable {
 
     private final int numberOfRooms;
     private String name;
@@ -18,23 +20,12 @@ public class Hotel {
         this.numberOfRooms = numberOfRooms;
 
         rooms = new Room[numberOfRooms];
-
-        //creates the rooms of the hotel based on number of the rooms set
-
-        for (int i = 0; i < numberOfRooms; i++) {
-            rooms[i] = new Room(i, false);
-        }
     }
 
-    @Deprecated
-    public int checkHotelBookingStatus() {
-        int reservedRooms = 0;
-        for (int i = 0; i < numberOfRooms; i++) {
-            if (rooms[i].isReserved()) {
-                reservedRooms += 1;
-            }
-        }
-        return (reservedRooms * 100) / numberOfRooms;
+    @Override
+    public String toString() {
+        return this.name +
+                " (" + this.address + ");";
     }
 
     public String getName() {

@@ -1,7 +1,8 @@
 package hotelmng.repository;
 
+import hotelmng.exception.ReservationValidationException;
 import hotelmng.model.hotel.Reservation;
-import hotelmng.service.IReservationRepository;
+import hotelmng.repository.interfaces.IReservationRepository;
 
 import java.util.ArrayList;
 import java.util.List;

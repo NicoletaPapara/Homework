@@ -2,10 +2,10 @@ package hotelmng.model.hotel;
 
 public enum MealPreference {
 
-    Regular ("can contain any type of ingredient", false),
-    Vegetarian ("doesn't contain meat, poultry, fish and shellfish", false),
-    Vegan ("doesn't contain any ingredient derived from animals", true),
-    GlutenFree ("doesn't contain wheat, barley, rye or oats", true);
+    REGULAR("can contain any type of ingredient", false),
+    VEGETARIAN("doesn't contain meat, poultry, fish and shellfish", false),
+    VEGAN("doesn't contain any ingredient derived from animals", true),
+    GLUTENFREE("doesn't contain wheat, barley, rye or oats", true);
 
     private String message;
     private boolean preOrderRequired;
@@ -15,11 +15,11 @@ public enum MealPreference {
         this.preOrderRequired = preOrderRequired;
     }
 
-    public String getInfo (){
+    public String getInfo() {
         return message;
     }
 
-    public boolean isPreOrderRequired(){
+    public boolean isPreOrderRequired() {
         return preOrderRequired;
     }
 }

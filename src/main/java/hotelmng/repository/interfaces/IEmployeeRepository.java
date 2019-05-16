@@ -1,4 +1,4 @@
-package hotelmng.repository;
+package hotelmng.repository.interfaces;
 
 import hotelmng.model.person.Employee;
 

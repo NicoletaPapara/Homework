@@ -1,10 +1,13 @@
 package hotelmng.model.hotel;
 
+import java.io.Serializable;
+
 /**
  * This class models a room of the hotel
  */
 
-public class Room {
+public class Room implements Serializable {
+
     private final int roomNumber;
     private boolean isReserved;
 
@@ -23,5 +26,9 @@ public class Room {
 
     public void setReserved(boolean reserved) {
         isReserved = reserved;
+    }
+
+    public int getRoomNumber() {
+        return roomNumber;
     }
 }

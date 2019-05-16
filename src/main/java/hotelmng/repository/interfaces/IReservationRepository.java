@@ -1,7 +1,7 @@
-package hotelmng.service;
+package hotelmng.repository.interfaces;
 
 import hotelmng.model.hotel.Reservation;
-import hotelmng.repository.ReservationValidationException;
+import hotelmng.exception.ReservationValidationException;
 
 public interface IReservationRepository {
 

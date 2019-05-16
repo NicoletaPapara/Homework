@@ -1,9 +1,14 @@
 package hotelmng.repository;
 
 import hotelmng.model.hotel.Hotel;
+import hotelmng.repository.interfaces.IHotelRepository;
 
 import java.util.ArrayList;
 import java.util.List;
+
+/**
+ * {@inheritDoc}
+ */
 
 public class HotelRepository implements IHotelRepository {
 

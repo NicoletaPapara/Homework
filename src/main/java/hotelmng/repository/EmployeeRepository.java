@@ -1,6 +1,7 @@
 package hotelmng.repository;
 
 import hotelmng.model.person.Employee;
+import hotelmng.repository.interfaces.IEmployeeRepository;
 
 import java.util.HashSet;
 import java.util.Set;

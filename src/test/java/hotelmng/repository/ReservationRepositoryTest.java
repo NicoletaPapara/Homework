@@ -1,6 +1,7 @@
 package hotelmng.repository;
 
 import hotelmng.model.hotel.Reservation;
+import hotelmng.exception.ReservationValidationException;
 import org.junit.Before;
 import org.junit.Test;
 
