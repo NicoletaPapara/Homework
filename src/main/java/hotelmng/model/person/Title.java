@@ -1,6 +1,9 @@
 package hotelmng.model.person;
 
-enum Title {
+import lombok.Getter;
+
+@Getter
+public enum Title {
     MS,
     MRS,
     MR;

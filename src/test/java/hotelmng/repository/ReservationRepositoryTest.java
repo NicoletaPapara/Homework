@@ -1,19 +1,20 @@
 package hotelmng.repository;
 
-import hotelmng.model.hotel.Reservation;
 import hotelmng.exception.ReservationValidationException;
-import org.junit.Before;
-import org.junit.Test;
+import hotelmng.model.hotel.Reservation;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 import java.text.ParseException;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class ReservationRepositoryTest {
 
     private ReservationRepository reservations;
 
-    @Before
+    @BeforeEach
     public void setup() {
         reservations = new ReservationRepository();
     }
@@ -29,12 +30,12 @@ public class ReservationRepositoryTest {
         assertTrue(result);
     }
 
-    @Test(expected = ReservationValidationException.class)
+    @Test
     public void shouldThrowExceptionWhenDatesAreNotValid() throws ParseException, ReservationValidationException {
         //GIVEN
         Reservation reservation = new Reservation("2019-05-08", "2019-05-02");
 
-        //WHEN
-        reservations.addReservation(reservation);
+        //WHEN & THEN
+        Assertions.assertThrows(ReservationValidationException.class, () -> reservations.addReservation(reservation));
     }
 }

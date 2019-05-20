@@ -1,23 +1,26 @@
 package hotelmng.repository;
 
-import hotelmng.model.person.Employee;
-import hotelmng.repository.interfaces.IEmployeeRepository;
+import hotelmng.repository.interfaces.IRepository;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
-public class EmployeeRepository implements IEmployeeRepository {
-    Set<Employee> employeeSet = new HashSet<Employee>();
+public class EmployeeRepository<T> implements IRepository<T> {
+    private List<T> employees = new ArrayList<>();
 
-    public void addEmployee(Employee employee) {
-        employeeSet.add(employee);
+
+    @Override
+    public void add(T o) {
+        employees.add(o);
     }
 
-    public void deleteEmployee(Employee employee) {
-        employeeSet.remove(employee);
+    @Override
+    public void delete(T o) {
+        employees.remove(o);
     }
 
-    public Set<Employee> listEmployee() {
-        return employeeSet;
+    @Override
+    public List<T> list() {
+        return employees;
     }
 }

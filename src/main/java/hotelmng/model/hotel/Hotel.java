@@ -1,25 +1,31 @@
 package hotelmng.model.hotel;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.io.Serializable;
+import java.util.UUID;
 
 /**
- * This class models a hotel. It has an array of rooms.
+ * This class models a hotel.
  */
 
+@Getter
+@Setter
 public class Hotel implements Serializable {
 
     private final int numberOfRooms;
     private String name;
-
     private String address;
     private int capacity;
-    private Room[] rooms;
+    private UUID id;
+
 
     public Hotel(String name, int numberOfRooms) {
         this.name = name;
         this.numberOfRooms = numberOfRooms;
 
-        rooms = new Room[numberOfRooms];
+        this.id = UUID.randomUUID();
     }
 
     @Override
@@ -27,25 +33,4 @@ public class Hotel implements Serializable {
         return this.name +
                 " (" + this.address + ");";
     }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
-
-    public int getNumberOfRooms() {
-        return numberOfRooms;
-    }
-
-    public Room getRoom(int roomNumber) {
-        return rooms[roomNumber];
-    }
-
 }

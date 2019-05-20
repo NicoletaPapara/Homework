@@ -4,7 +4,8 @@ import hotelmng.model.hotel.Hotel;
 import java.util.List;
 
 /**
- * HotelRepository is a class that stores hotel in a list and allows the addtion, deletion and listing of the hotels in that list
+ * HotelRepository is a class that stores hotel in a list and allows the addtion,
+ * deletion and listing of the hotels in that list
  */
 
 public interface IHotelRepository {

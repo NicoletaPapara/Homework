@@ -1,29 +1,28 @@
 package hotelmng.repository;
 
 
-import hotelmng.model.hotel.Room;
-import hotelmng.repository.interfaces.IRoomRepository;
+import hotelmng.repository.interfaces.IRepository;
 
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class RoomRepository implements IRoomRepository {
+public class RoomRepository<T> implements IRepository<T> {
 
-    private List<Room> rooms = new ArrayList<Room>();
+    private List<T> rooms = new ArrayList<>();
 
-    public void addRoom(Room room) {
-
-        rooms.add(room);
-    }
-
-    public void deleteRoom(Room room) {
-        rooms.remove(room);
+    @Override
+    public void add(T o) {
+        rooms.add(o);
     }
 
     @Override
-    public List<Room> listRooms() {
-        return rooms;
+    public void delete(T o) {
+        rooms.remove(o);
     }
 
+    @Override
+    public List<T> list() {
+        return rooms;
+    }
 }

@@ -180,3 +180,492 @@
 2019-05-16 11:51:20 INFO  MainClass:72 - room 2: is not reserved
 2019-05-16 11:51:20 INFO  MainClass:72 - room 3: is reserved
 2019-05-16 11:51:23 INFO  MainClass:89 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 10:05:18 INFO  MainClass:31 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 10:05:18 INFO  MainClass:38 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 10:05:18 INFO  MainClass:39 - Alex Popescu (ID: 1234)
+2019-05-18 10:05:18 INFO  MainClass:40 - Maria Muntean (ID: 1235)
+2019-05-18 10:05:18 ERROR MainClass:46 - Employee age should be between 18 and 60
+2019-05-18 10:05:18 INFO  MainClass:60 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-18 10:05:18 INFO  MainClass:60 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-18 10:05:18 INFO  MainClass:60 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-18 10:05:18 INFO  MainClass:74 - room 1: is reserved
+2019-05-18 10:05:18 INFO  MainClass:74 - room 2: is not reserved
+2019-05-18 10:05:18 INFO  MainClass:74 - room 3: is reserved
+2019-05-18 10:05:18 INFO  MainClass:91 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 10:07:07 INFO  MainClass:31 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 10:07:07 INFO  MainClass:38 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 10:07:07 INFO  MainClass:39 - Alex Popescu (ID: 1234)
+2019-05-18 10:07:07 INFO  MainClass:40 - Maria Muntean (ID: 1235)
+2019-05-18 10:07:07 ERROR MainClass:46 - Employee age should be between 18 and 60
+2019-05-18 10:07:07 INFO  MainClass:60 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-18 10:07:07 INFO  MainClass:60 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-18 10:07:07 INFO  MainClass:60 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-18 10:07:07 INFO  MainClass:74 - room 1: is reserved
+2019-05-18 10:07:07 INFO  MainClass:74 - room 2: is not reserved
+2019-05-18 10:07:07 INFO  MainClass:74 - room 3: is reserved
+2019-05-18 10:07:07 INFO  MainClass:91 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 10:12:18 INFO  MainClass:31 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 10:12:19 INFO  MainClass:38 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 10:12:19 INFO  MainClass:39 - Alex Popescu (ID: 1234)
+2019-05-18 10:12:19 INFO  MainClass:40 - Maria Muntean (ID: 1235)
+2019-05-18 10:12:19 ERROR MainClass:46 - Employee age should be between 18 and 60
+2019-05-18 10:12:19 INFO  MainClass:60 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-18 10:12:19 INFO  MainClass:60 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-18 10:12:19 INFO  MainClass:60 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-18 10:12:19 INFO  MainClass:74 - room 1: is reserved
+2019-05-18 10:12:19 INFO  MainClass:74 - room 2: is not reserved
+2019-05-18 10:12:19 INFO  MainClass:74 - room 3: is reserved
+2019-05-18 10:12:19 INFO  MainClass:91 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 10:12:19 INFO  MainClass:101 - REGULAR
+2019-05-18 10:12:19 INFO  MainClass:102 - can contain any type of ingredient
+2019-05-18 10:12:19 INFO  MainClass:103 - false
+2019-05-18 17:10:28 INFO  MainClass:27 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:10:28 INFO  MainClass:34 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:10:28 INFO  MainClass:35 - Alex Popescu (ID: 1234)
+2019-05-18 17:10:28 INFO  MainClass:36 - Maria Muntean (ID: 1235)
+2019-05-18 17:10:28 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-18 17:10:29 INFO  MainClass:57 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:10:29 INFO  MainClass:67 - REGULAR
+2019-05-18 17:10:29 INFO  MainClass:68 - can contain any type of ingredient
+2019-05-18 17:10:29 INFO  MainClass:69 - false
+2019-05-18 17:12:34 INFO  MainClass:27 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:12:34 INFO  MainClass:34 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:12:34 INFO  MainClass:35 - Alex Popescu (ID: 1234)
+2019-05-18 17:12:34 INFO  MainClass:36 - Maria Muntean (ID: 1235)
+2019-05-18 17:12:34 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-18 17:12:34 INFO  MainClass:57 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:12:34 INFO  MainClass:67 - REGULAR
+2019-05-18 17:12:34 INFO  MainClass:68 - can contain any type of ingredient
+2019-05-18 17:12:34 INFO  MainClass:69 - false
+2019-05-18 17:13:48 INFO  MainClass:27 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:13:48 INFO  MainClass:34 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:13:48 INFO  MainClass:35 - Alex Popescu (ID: 1234)
+2019-05-18 17:13:48 INFO  MainClass:36 - Maria Muntean (ID: 1235)
+2019-05-18 17:13:48 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-18 17:13:48 INFO  MainClass:57 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:13:48 INFO  MainClass:67 - REGULAR
+2019-05-18 17:13:48 INFO  MainClass:68 - can contain any type of ingredient
+2019-05-18 17:13:48 INFO  MainClass:69 - false
+2019-05-18 17:16:06 INFO  MainClass:27 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:16:06 INFO  MainClass:34 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:16:06 INFO  MainClass:35 - Alex Popescu (ID: 1234)
+2019-05-18 17:16:06 INFO  MainClass:36 - Maria Muntean (ID: 1235)
+2019-05-18 17:16:06 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-18 17:16:06 INFO  MainClass:57 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:16:06 INFO  MainClass:67 - REGULAR
+2019-05-18 17:16:06 INFO  MainClass:68 - can contain any type of ingredient
+2019-05-18 17:16:06 INFO  MainClass:69 - false
+2019-05-18 17:16:30 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:16:30 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:16:30 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-18 17:16:30 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-18 17:16:30 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-18 17:16:30 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:16:30 INFO  MainClass:68 - REGULAR
+2019-05-18 17:16:30 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-18 17:16:30 INFO  MainClass:70 - false
+2019-05-18 17:17:07 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:17:07 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:17:07 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-18 17:17:07 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-18 17:17:07 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-18 17:17:07 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:17:07 INFO  MainClass:68 - REGULAR
+2019-05-18 17:17:07 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-18 17:17:07 INFO  MainClass:70 - false
+2019-05-18 17:20:49 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:20:49 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:20:49 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-18 17:20:49 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-18 17:20:49 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-18 17:20:49 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:20:49 INFO  MainClass:68 - REGULAR
+2019-05-18 17:20:49 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-18 17:20:49 INFO  MainClass:70 - false
+2019-05-18 17:24:13 INFO  MainClass:29 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:24:13 INFO  MainClass:36 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:24:13 INFO  MainClass:37 - Alex Popescu (ID: 1234)
+2019-05-18 17:24:13 INFO  MainClass:38 - Maria Muntean (ID: 1235)
+2019-05-18 17:24:13 ERROR MainClass:44 - Employee age should be between 18 and 60
+2019-05-18 17:24:13 INFO  MainClass:59 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:24:13 INFO  MainClass:69 - REGULAR
+2019-05-18 17:24:13 INFO  MainClass:70 - can contain any type of ingredient
+2019-05-18 17:24:13 INFO  MainClass:71 - false
+2019-05-18 17:38:20 INFO  MainClass:29 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:38:20 INFO  MainClass:36 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:38:20 INFO  MainClass:37 - Alex Popescu (ID: 1234)
+2019-05-18 17:38:20 INFO  MainClass:38 - Maria Muntean (ID: 1235)
+2019-05-18 17:38:20 ERROR MainClass:44 - Employee age should be between 18 and 60
+2019-05-18 17:38:20 INFO  MainClass:59 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:38:20 INFO  MainClass:69 - REGULAR
+2019-05-18 17:38:20 INFO  MainClass:70 - can contain any type of ingredient
+2019-05-18 17:38:20 INFO  MainClass:71 - false
+2019-05-18 17:55:28 INFO  MainClass:29 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 17:55:28 INFO  MainClass:36 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 17:55:28 INFO  MainClass:37 - Alex Popescu (ID: 1234)
+2019-05-18 17:55:28 INFO  MainClass:38 - Maria Muntean (ID: 1235)
+2019-05-18 17:55:28 ERROR MainClass:44 - Employee age should be between 18 and 60
+2019-05-18 17:55:28 INFO  MainClass:59 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 17:55:28 INFO  MainClass:69 - REGULAR
+2019-05-18 17:55:28 INFO  MainClass:70 - can contain any type of ingredient
+2019-05-18 17:55:28 INFO  MainClass:71 - false
+2019-05-18 18:12:03 INFO  MainClass:29 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-18 18:12:03 INFO  MainClass:36 - Currently, the following emplyoees are working for the hotel: 
+2019-05-18 18:12:03 INFO  MainClass:37 - Alex Popescu (ID: 1234)
+2019-05-18 18:12:03 INFO  MainClass:38 - Maria Muntean (ID: 1235)
+2019-05-18 18:12:03 ERROR MainClass:44 - Employee age should be between 18 and 60
+2019-05-18 18:12:03 INFO  MainClass:59 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-18 18:12:03 INFO  MainClass:69 - REGULAR
+2019-05-18 18:12:03 INFO  MainClass:70 - can contain any type of ingredient
+2019-05-18 18:12:03 INFO  MainClass:71 - false
+2019-05-19 10:35:20 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-19 10:35:20 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-19 10:35:20 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-19 10:35:20 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-19 10:35:20 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-19 10:35:20 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-19 10:35:20 INFO  MainClass:68 - REGULAR
+2019-05-19 10:35:20 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-19 10:35:20 INFO  MainClass:70 - false
+2019-05-19 10:36:45 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-19 10:36:45 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-19 10:36:45 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-19 10:36:45 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-19 10:36:45 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-19 10:36:45 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-19 10:36:45 INFO  MainClass:68 - REGULAR
+2019-05-19 10:36:45 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-19 10:36:45 INFO  MainClass:70 - false
+2019-05-19 10:39:59 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-19 10:39:59 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-19 10:39:59 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-19 10:39:59 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-19 10:39:59 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-19 10:39:59 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-19 10:39:59 INFO  MainClass:68 - REGULAR
+2019-05-19 10:39:59 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-19 10:39:59 INFO  MainClass:70 - false
+2019-05-19 10:41:05 INFO  MainClass:28 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-19 10:41:05 INFO  MainClass:35 - Currently, the following emplyoees are working for the hotel: 
+2019-05-19 10:41:05 INFO  MainClass:36 - Alex Popescu (ID: 1234)
+2019-05-19 10:41:05 INFO  MainClass:37 - Maria Muntean (ID: 1235)
+2019-05-19 10:41:05 ERROR MainClass:43 - Employee age should be between 18 and 60
+2019-05-19 10:41:05 INFO  MainClass:58 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-19 10:41:05 INFO  MainClass:68 - REGULAR
+2019-05-19 10:41:05 INFO  MainClass:69 - can contain any type of ingredient
+2019-05-19 10:41:05 INFO  MainClass:70 - false
+2019-05-19 10:41:05 INFO  MainClass:86 - 20
+2019-05-19 10:41:05 INFO  MainClass:95 - 21
+2019-05-19 11:05:48 INFO  MainClass:27 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-19 11:05:48 ERROR MainClass:37 - Employee age should be between 18 and 60
+2019-05-19 11:05:48 INFO  MainClass:52 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-19 11:05:48 INFO  MainClass:62 - REGULAR
+2019-05-19 11:05:48 INFO  MainClass:63 - can contain any type of ingredient
+2019-05-19 11:05:48 INFO  MainClass:64 - false
+2019-05-19 11:05:48 INFO  MainClass:80 - 20
+2019-05-19 11:05:48 INFO  MainClass:88 - 21
+2019-05-19 11:08:12 INFO  MainClass:27 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-19 11:08:12 ERROR MainClass:37 - Employee age should be between 18 and 60
+2019-05-19 11:08:12 INFO  MainClass:52 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-19 11:08:12 INFO  MainClass:62 - REGULAR
+2019-05-19 11:08:12 INFO  MainClass:63 - can contain any type of ingredient
+2019-05-19 11:08:12 INFO  MainClass:64 - false
+2019-05-19 11:08:12 INFO  MainClass:80 - 20
+2019-05-19 11:08:12 INFO  MainClass:88 - 21
+2019-05-19 11:08:12 INFO  MainClass:106 - Maria Muntean (ID: 1236)
+2019-05-19 11:08:12 INFO  MainClass:106 - Maria Muntean (ID: 1237)
+2019-05-19 11:08:12 INFO  MainClass:106 - Maria Muntean (ID: 1235)
+2019-05-19 11:08:12 INFO  MainClass:106 - Maria Muntean (ID: 1238)
+2019-05-19 18:17:25 DEBUG RoomService:34 - Room has been removed from repo
+2019-05-19 22:07:43 DEBUG HotelService:44 - Hotel added to repo
+2019-05-19 22:07:43 DEBUG HotelService:39 - Name too long
+2019-05-19 22:07:43 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:07:43 DEBUG HotelService:34 - Name too short
+2019-05-19 22:08:31 DEBUG HotelService:44 - Hotel added to repo
+2019-05-19 22:09:05 DEBUG HotelService:44 - Hotel added to repo
+2019-05-19 22:09:17 DEBUG HotelService:44 - Hotel added to repo
+2019-05-19 22:09:17 DEBUG HotelService:39 - Name too long
+2019-05-19 22:09:17 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:09:17 DEBUG HotelService:34 - Name too short
+2019-05-19 22:10:27 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:13:38 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:16:09 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:16:36 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:17:25 DEBUG HotelService:39 - Name too long
+2019-05-19 22:17:25 DEBUG HotelService:29 - Not enough rooms
+2019-05-19 22:17:25 DEBUG HotelService:34 - Name too short
+2019-05-20 22:29:21 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:29:22 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:29:22 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:29:22 INFO  MainClass:52 - REGULAR
+2019-05-20 22:29:22 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:29:22 INFO  MainClass:54 - false
+2019-05-20 22:29:22 INFO  MainClass:146 - 19
+2019-05-20 22:29:22 INFO  MainClass:154 - 20
+2019-05-20 22:29:22 INFO  MainClass:63 - MS akFB 0735453327321
+2019-05-20 22:29:22 INFO  MainClass:63 - MS bpLN 2673061819184
+2019-05-20 22:29:22 INFO  MainClass:63 - MS YAyW 2209873358303
+2019-05-20 22:29:22 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:29:22 INFO  MainClass:63 - MS XWef 9590190399951
+2019-05-20 22:29:22 INFO  MainClass:63 - MS gWvD 4473246879509
+2019-05-20 22:29:22 INFO  MainClass:63 - MS ZncG 6780746279513
+2019-05-20 22:29:22 INFO  MainClass:63 - MS gXOP 9341237948022
+2019-05-20 22:29:22 INFO  MainClass:63 - MS qshN 8641277475049
+2019-05-20 22:29:22 INFO  MainClass:63 - MS oLTd 8714693561738
+2019-05-20 22:29:22 INFO  MainClass:63 - MS xVRH 3720126340449
+2019-05-20 22:29:22 INFO  MainClass:63 - MS RHYw 2984857885041
+2019-05-20 22:29:22 INFO  MainClass:63 - MS OCsc 4032778547327
+2019-05-20 22:29:22 INFO  MainClass:63 - MS GnHE 2548515905340
+2019-05-20 22:29:22 INFO  MainClass:63 - MS ZhUx 8094263721390
+2019-05-20 22:29:22 INFO  MainClass:63 - MS ZPRx 0532616909967
+2019-05-20 22:29:22 INFO  MainClass:63 - MS oTyU 4062679251171
+2019-05-20 22:29:22 INFO  MainClass:63 - MS dhTh 0576594800614
+2019-05-20 22:29:22 INFO  MainClass:63 - MS HgUW 4762310787852
+2019-05-20 22:29:22 INFO  MainClass:63 - MS VWHo 8001248307987
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:32:15 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:32:15 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:32:15 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:32:15 INFO  MainClass:52 - REGULAR
+2019-05-20 22:32:15 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:32:15 INFO  MainClass:54 - false
+2019-05-20 22:32:15 INFO  MainClass:146 - 19
+2019-05-20 22:32:15 INFO  MainClass:154 - 20
+2019-05-20 22:32:15 INFO  MainClass:63 - MS cOPX 5606557197122
+2019-05-20 22:32:15 INFO  MainClass:63 - MS upoO 9038842524582
+2019-05-20 22:32:15 INFO  MainClass:63 - MS kyZA 7362200669834
+2019-05-20 22:32:15 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:32:15 INFO  MainClass:63 - MS UNNM 2898287211284
+2019-05-20 22:32:15 INFO  MainClass:63 - MS wKvy 8107544106225
+2019-05-20 22:32:15 INFO  MainClass:63 - MS aetE 3825320890027
+2019-05-20 22:32:15 INFO  MainClass:63 - MS dQxL 3852466845379
+2019-05-20 22:32:15 INFO  MainClass:63 - MS Kdaj 1662693764344
+2019-05-20 22:32:15 INFO  MainClass:63 - MS aylF 2143569593487
+2019-05-20 22:32:15 INFO  MainClass:63 - MS dmyB 9694157739799
+2019-05-20 22:32:15 INFO  MainClass:63 - MS jQSN 5868170370952
+2019-05-20 22:32:15 INFO  MainClass:63 - MS Kjtd 0828935394678
+2019-05-20 22:32:15 INFO  MainClass:63 - MS UQZa 7187563455607
+2019-05-20 22:32:15 INFO  MainClass:63 - MS QukO 5132365280907
+2019-05-20 22:32:15 INFO  MainClass:63 - MS FxkZ 4519125052894
+2019-05-20 22:32:15 INFO  MainClass:63 - MS mJHi 4689652928367
+2019-05-20 22:32:15 INFO  MainClass:63 - MS tbJi 2468494138859
+2019-05-20 22:32:15 INFO  MainClass:63 - MS UUtF 7873367452937
+2019-05-20 22:32:15 INFO  MainClass:63 - MS ItSF 9836562126799
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:35:43 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:35:43 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:35:43 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:35:43 INFO  MainClass:52 - REGULAR
+2019-05-20 22:35:43 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:35:43 INFO  MainClass:54 - false
+2019-05-20 22:35:43 INFO  MainClass:146 - 19
+2019-05-20 22:35:43 INFO  MainClass:154 - 20
+2019-05-20 22:35:43 INFO  MainClass:63 - MS eKQx 6885507864451
+2019-05-20 22:35:43 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:35:43 INFO  MainClass:63 - MS TQAY 7094433026727
+2019-05-20 22:35:43 INFO  MainClass:63 - MS gjsk 8742474316848
+2019-05-20 22:35:43 INFO  MainClass:63 - MS GwWx 5452398593501
+2019-05-20 22:35:43 INFO  MainClass:63 - MS wypa 9403235855933
+2019-05-20 22:35:43 INFO  MainClass:63 - MS IipL 2356942422979
+2019-05-20 22:35:43 INFO  MainClass:63 - MS CeMH 1361784459126
+2019-05-20 22:35:43 INFO  MainClass:63 - MS ucBS 1899416021422
+2019-05-20 22:35:43 INFO  MainClass:63 - MS QICO 3428185375089
+2019-05-20 22:35:43 INFO  MainClass:63 - MS VoDP 8661034738845
+2019-05-20 22:35:43 INFO  MainClass:63 - MS ySnE 3630557511880
+2019-05-20 22:35:43 INFO  MainClass:63 - MS GBLs 0821748024829
+2019-05-20 22:35:43 INFO  MainClass:63 - MS mOgu 3919274306189
+2019-05-20 22:35:43 INFO  MainClass:63 - MS TpEW 6547456602143
+2019-05-20 22:35:43 INFO  MainClass:63 - MS NiPV 1598137979319
+2019-05-20 22:35:43 INFO  MainClass:63 - MS nflR 5630146594863
+2019-05-20 22:35:43 INFO  MainClass:63 - MS PSHq 7820227964570
+2019-05-20 22:35:43 INFO  MainClass:63 - MS rbiV 9827492113181
+2019-05-20 22:35:43 INFO  MainClass:63 - MS belF 1245849588474
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@2473b9ce
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@60438a68
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@140e5a13
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@3439f68d
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@dbd940d
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@71d15f18
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@17695df3
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@6c9f5c0d
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@de3a06f
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@76b10754
+2019-05-20 22:35:43 INFO  MainClass:104 - EmployeesMap has 3 entries.
+2019-05-20 22:37:06 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:37:06 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:37:06 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:37:06 INFO  MainClass:52 - REGULAR
+2019-05-20 22:37:06 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:37:06 INFO  MainClass:54 - false
+2019-05-20 22:37:06 INFO  MainClass:146 - 19
+2019-05-20 22:37:06 INFO  MainClass:154 - 20
+2019-05-20 22:37:06 INFO  MainClass:63 - MS HbhB 9438295046276
+2019-05-20 22:37:06 INFO  MainClass:63 - MS DnyC 5772172831475
+2019-05-20 22:37:06 INFO  MainClass:63 - MS qtcp 5560214792021
+2019-05-20 22:37:06 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:37:06 INFO  MainClass:63 - MS OPpX 0670850174560
+2019-05-20 22:37:06 INFO  MainClass:63 - MS Xsla 4636952228174
+2019-05-20 22:37:06 INFO  MainClass:63 - MS hTDV 9339760367800
+2019-05-20 22:37:06 INFO  MainClass:63 - MS ibUd 6023266216141
+2019-05-20 22:37:06 INFO  MainClass:63 - MS TWiI 8862112962002
+2019-05-20 22:37:06 INFO  MainClass:63 - MS ezNB 7803157169101
+2019-05-20 22:37:06 INFO  MainClass:63 - MS JNnx 3668764626733
+2019-05-20 22:37:06 INFO  MainClass:63 - MS TKeJ 9469566461496
+2019-05-20 22:37:06 INFO  MainClass:63 - MS ELrH 2944917551524
+2019-05-20 22:37:06 INFO  MainClass:63 - MS grdL 1141930356855
+2019-05-20 22:37:06 INFO  MainClass:63 - MS nGsS 1030724425359
+2019-05-20 22:37:06 INFO  MainClass:63 - MS KFZW 0292274560003
+2019-05-20 22:37:06 INFO  MainClass:63 - MS VFqV 1865805760368
+2019-05-20 22:37:06 INFO  MainClass:63 - MS rJuW 5109630495679
+2019-05-20 22:37:06 INFO  MainClass:63 - MS bHDA 4580192610364
+2019-05-20 22:37:06 INFO  MainClass:63 - MS OFFb 2595676483441
+2019-05-20 22:37:06 INFO  MainClass:71 - CjBB (9) 
+2019-05-20 22:37:06 INFO  MainClass:71 - EyYl (7) 
+2019-05-20 22:37:06 INFO  MainClass:71 - GCmP (6) 
+2019-05-20 22:37:06 INFO  MainClass:71 - GGYG (8) 
+2019-05-20 22:37:06 INFO  MainClass:71 - Gild (10) 
+2019-05-20 22:37:06 INFO  MainClass:71 - JlHN (5) 
+2019-05-20 22:37:06 INFO  MainClass:71 - PFfh (3) 
+2019-05-20 22:37:06 INFO  MainClass:71 - PJef (2) 
+2019-05-20 22:37:06 INFO  MainClass:71 - Qjuf (4) 
+2019-05-20 22:37:06 INFO  MainClass:71 - fgqp (1) 
+2019-05-20 22:37:06 INFO  MainClass:104 - EmployeesMap has 3 entries.
+2019-05-20 22:38:49 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:38:49 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:38:49 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:38:49 INFO  MainClass:52 - REGULAR
+2019-05-20 22:38:49 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:38:49 INFO  MainClass:54 - false
+2019-05-20 22:38:49 INFO  MainClass:146 - 19
+2019-05-20 22:38:49 INFO  MainClass:154 - 20
+2019-05-20 22:38:49 INFO  MainClass:63 - MS ckIf 7474460830485
+2019-05-20 22:38:49 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:38:49 INFO  MainClass:63 - MS Aqvj 6250855873108
+2019-05-20 22:38:49 INFO  MainClass:63 - MS fDjY 9442304446198
+2019-05-20 22:38:49 INFO  MainClass:63 - MS oYRY 6021798421331
+2019-05-20 22:38:49 INFO  MainClass:63 - MS UVaf 5280594770218
+2019-05-20 22:38:49 INFO  MainClass:63 - MS pYjq 4795394778693
+2019-05-20 22:38:49 INFO  MainClass:63 - MS trIL 8879991837262
+2019-05-20 22:38:49 INFO  MainClass:63 - MS dcxS 4713474575692
+2019-05-20 22:38:49 INFO  MainClass:63 - MS TJql 6487695595329
+2019-05-20 22:38:49 INFO  MainClass:63 - MS IzNz 5501319040252
+2019-05-20 22:38:49 INFO  MainClass:63 - MS NuKf 0582365773581
+2019-05-20 22:38:49 INFO  MainClass:63 - MS HvxU 3626015029368
+2019-05-20 22:38:49 INFO  MainClass:63 - MS gSVC 1700171326996
+2019-05-20 22:38:49 INFO  MainClass:63 - MS iuLj 3155101468054
+2019-05-20 22:38:49 INFO  MainClass:63 - MS wATX 5538155342569
+2019-05-20 22:38:49 INFO  MainClass:63 - MS KVRe 9670235515770
+2019-05-20 22:38:49 INFO  MainClass:63 - MS dDpQ 5489966930420
+2019-05-20 22:38:49 INFO  MainClass:63 - MS gKqm 8667237835887
+2019-05-20 22:38:49 INFO  MainClass:63 - MS Gzsi 1252764685878
+2019-05-20 22:38:49 INFO  MainClass:71 - HINc (5) 
+2019-05-20 22:38:49 INFO  MainClass:71 - LoeU (3) 
+2019-05-20 22:38:49 INFO  MainClass:71 - RBME (1) 
+2019-05-20 22:38:49 INFO  MainClass:71 - RCoC (9) 
+2019-05-20 22:38:49 INFO  MainClass:71 - WGvj (7) 
+2019-05-20 22:38:49 INFO  MainClass:71 - huwW (8) 
+2019-05-20 22:38:49 INFO  MainClass:71 - rJVf (6) 
+2019-05-20 22:38:49 INFO  MainClass:71 - ralb (2) 
+2019-05-20 22:38:49 INFO  MainClass:71 - sTEg (10) 
+2019-05-20 22:38:49 INFO  MainClass:71 - xolR (4) 
+2019-05-20 22:38:49 INFO  MainClass:104 - EmployeesMap has 3 entries.
+2019-05-20 22:40:35 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:40:35 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:40:35 INFO  MainClass:186 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:40:35 INFO  MainClass:52 - REGULAR
+2019-05-20 22:40:35 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:40:35 INFO  MainClass:54 - false
+2019-05-20 22:40:35 INFO  MainClass:148 - 19
+2019-05-20 22:40:35 INFO  MainClass:156 - 20
+2019-05-20 22:40:35 INFO  MainClass:63 - MS Ckcv 0104426462846
+2019-05-20 22:40:35 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:40:35 INFO  MainClass:63 - MS gegL 1459455484126
+2019-05-20 22:40:35 INFO  MainClass:63 - MS Gigm 2755180333857
+2019-05-20 22:40:35 INFO  MainClass:63 - MS gDqb 3847416795465
+2019-05-20 22:40:35 INFO  MainClass:63 - MS mLIM 0077890073517
+2019-05-20 22:40:35 INFO  MainClass:63 - MS YFgk 2777766185047
+2019-05-20 22:40:35 INFO  MainClass:63 - MS mTpF 1903789829569
+2019-05-20 22:40:35 INFO  MainClass:63 - MS BSkV 1093192493410
+2019-05-20 22:40:35 INFO  MainClass:63 - MS OCHh 9146153282444
+2019-05-20 22:40:35 INFO  MainClass:63 - MS svNH 6651698915569
+2019-05-20 22:40:35 INFO  MainClass:63 - MS zDED 3835181896669
+2019-05-20 22:40:35 INFO  MainClass:63 - MS CoWz 3279168675895
+2019-05-20 22:40:35 INFO  MainClass:63 - MS gQJB 4473842175280
+2019-05-20 22:40:35 INFO  MainClass:63 - MS iUIz 0606421664515
+2019-05-20 22:40:35 INFO  MainClass:63 - MS owDg 1764448268324
+2019-05-20 22:40:35 INFO  MainClass:63 - MS Ehtq 9376491566019
+2019-05-20 22:40:35 INFO  MainClass:63 - MS OwBL 7719860977786
+2019-05-20 22:40:35 INFO  MainClass:63 - MS HVJe 3059992730278
+2019-05-20 22:40:35 INFO  MainClass:63 - MS qbEH 1259630586348
+2019-05-20 22:40:35 INFO  MainClass:71 - Aepq (5) 
+2019-05-20 22:40:35 INFO  MainClass:71 - JRas (7) 
+2019-05-20 22:40:35 INFO  MainClass:71 - NOST (6) 
+2019-05-20 22:40:35 INFO  MainClass:71 - OaGq (2) 
+2019-05-20 22:40:35 INFO  MainClass:71 - QPQK (4) 
+2019-05-20 22:40:35 INFO  MainClass:71 - WHIv (1) 
+2019-05-20 22:40:35 INFO  MainClass:71 - aQfX (9) 
+2019-05-20 22:40:35 INFO  MainClass:71 - pOeu (3) 
+2019-05-20 22:40:35 INFO  MainClass:71 - prgq (10) 
+2019-05-20 22:40:35 INFO  MainClass:71 - wbOS (8) 
+2019-05-20 22:40:35 INFO  MainClass:104 - EmployeesMap has 3 entries.
+2019-05-20 22:41:59 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-20 22:41:59 ERROR MainClass:42 - Employee age should be between 18 and 60
+2019-05-20 22:41:59 INFO  MainClass:186 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-20 22:41:59 INFO  MainClass:52 - REGULAR
+2019-05-20 22:41:59 INFO  MainClass:53 - can contain any type of ingredient
+2019-05-20 22:41:59 INFO  MainClass:54 - false
+2019-05-20 22:41:59 INFO  MainClass:148 - 19
+2019-05-20 22:41:59 INFO  MainClass:156 - 20
+2019-05-20 22:41:59 INFO  MainClass:63 - MS HFMY 3036221009595
+2019-05-20 22:41:59 INFO  MainClass:63 - MS bpxq 2875175208461
+2019-05-20 22:41:59 INFO  MainClass:63 - MR Victor 1050596555555
+2019-05-20 22:41:59 INFO  MainClass:63 - MS naPC 3878006604920
+2019-05-20 22:41:59 INFO  MainClass:63 - MS JXfE 1840891802970
+2019-05-20 22:41:59 INFO  MainClass:63 - MS kgPc 5528273493569
+2019-05-20 22:41:59 INFO  MainClass:63 - MS oqgU 5282563173243
+2019-05-20 22:41:59 INFO  MainClass:63 - MS ysiH 2748095607906
+2019-05-20 22:41:59 INFO  MainClass:63 - MS hXdY 4328946479010
+2019-05-20 22:41:59 INFO  MainClass:63 - MS kWOW 0132863747451
+2019-05-20 22:41:59 INFO  MainClass:63 - MS azsd 1676888252177
+2019-05-20 22:41:59 INFO  MainClass:63 - MS hRRH 9913894027990
+2019-05-20 22:41:59 INFO  MainClass:63 - MS NEyY 8713873717774
+2019-05-20 22:41:59 INFO  MainClass:63 - MS nGlv 2665204410232
+2019-05-20 22:41:59 INFO  MainClass:63 - MS XQta 4630617215126
+2019-05-20 22:41:59 INFO  MainClass:63 - MS QxRQ 2337534410427
+2019-05-20 22:41:59 INFO  MainClass:63 - MS JOMf 0031409173014
+2019-05-20 22:41:59 INFO  MainClass:63 - MS Efnl 6812266060489
+2019-05-20 22:41:59 INFO  MainClass:63 - MS ERoy 3827104717265
+2019-05-20 22:41:59 INFO  MainClass:63 - MS xnIq 1925421726083
+2019-05-20 22:41:59 INFO  MainClass:71 - FQsI (4) 
+2019-05-20 22:41:59 INFO  MainClass:71 - HUlR (10) 
+2019-05-20 22:41:59 INFO  MainClass:71 - RUmd (5) 
+2019-05-20 22:41:59 INFO  MainClass:71 - WiPF (2) 
+2019-05-20 22:41:59 INFO  MainClass:71 - ZFNO (6) 
+2019-05-20 22:41:59 INFO  MainClass:71 - ZWzG (1) 
+2019-05-20 22:41:59 INFO  MainClass:71 - neUb (3) 
+2019-05-20 22:41:59 INFO  MainClass:71 - nkyM (9) 
+2019-05-20 22:41:59 INFO  MainClass:71 - nnep (7) 
+2019-05-20 22:41:59 INFO  MainClass:71 - vyZe (8) 
+2019-05-20 22:41:59 INFO  MainClass:104 - EmployeesMap has 3 entries.
+2019-05-20 22:41:59 INFO  MainClass:89 - 49.5
+2019-05-20 22:53:46 DEBUG HotelService:39 - Name too long
+2019-05-20 22:53:46 DEBUG HotelService:29 - Not enough rooms
+2019-05-20 22:53:46 DEBUG HotelService:34 - Name too short

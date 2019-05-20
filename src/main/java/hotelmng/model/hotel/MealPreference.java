@@ -1,5 +1,9 @@
 package hotelmng.model.hotel;
 
+
+import lombok.Getter;
+
+@Getter
 public enum MealPreference {
 
     REGULAR("can contain any type of ingredient", false),
@@ -13,13 +17,5 @@ public enum MealPreference {
     MealPreference(String message, boolean preOrderRequired) {
         this.message = message;
         this.preOrderRequired = preOrderRequired;
-    }
-
-    public String getInfo() {
-        return message;
-    }
-
-    public boolean isPreOrderRequired() {
-        return preOrderRequired;
     }
 }

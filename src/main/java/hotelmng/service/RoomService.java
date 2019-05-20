@@ -24,15 +24,22 @@ public class RoomService {
         if (room.getRoomNumber() < 1) {
             throw new RoomValidationException("Number of rooms not valid");
         }
-        roomRepository.addRoom(room);
+        roomRepository.add(room);
         return true;
+    }
+
+    public void deleteRoom(Room room){
+        if(!room.isReserved()) {
+            roomRepository.delete(room);
+            logger.debug("Room has been removed from repo");
+        }
     }
 
 
     public int checkBookingStatus(){
 
         int reservedRooms = 0;
-        List<Room> rooms = roomRepository.listRooms();
+        List<Room> rooms = roomRepository.list();
         Iterator<Room> i = rooms.iterator();
 
         while(i.hasNext()){
@@ -41,7 +48,7 @@ public class RoomService {
                 }
 
         }
-        return (reservedRooms*100)/(roomRepository.listRooms().size());
+        return (reservedRooms*100)/(roomRepository.list().size());
     }
 
 }

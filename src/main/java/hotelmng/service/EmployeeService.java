@@ -22,7 +22,7 @@ public class EmployeeService {
           throw new EmployeeAgeValidationException("Employee age should be between 18 and 60")  ;
         }
 
-        employeeRepository.addEmployee(employee);
+        employeeRepository.add(employee);
 
     }
 }

@@ -1,6 +1,8 @@
 package hotelmng.model.hotel;
 
 import hotelmng.model.person.Client;
+import lombok.Getter;
+import lombok.Setter;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -10,6 +12,8 @@ import java.util.Date;
  * This class models a reservation and will allow the creation and cancellation of a reservation
  */
 
+@Getter
+@Setter
 public class Reservation {
 
     private String checkInDateString;
@@ -47,11 +51,10 @@ public class Reservation {
         this.room = room;
     }
 
-    public Date getCheckInDate() {
-        return checkInDate;
-    }
+    public Reservation(String checkInDateString, String checkOutDateString, MealPreference mealPreference) {
+        this.checkInDateString = checkInDateString;
+        this.checkOutDateString = checkOutDateString;
+        this.mealPreference = mealPreference;
 
-    public Date getCheckOutDate() {
-        return checkOutDate;
     }
 }

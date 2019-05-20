@@ -1,25 +1,18 @@
 package hotelmng.service;
 
 import hotelmng.exception.RoomValidationException;
-import hotelmng.model.hotel.Hotel;
 import hotelmng.model.hotel.Room;
 import hotelmng.repository.RoomRepository;
-import org.junit.Before;
-import org.junit.Ignore;
-import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
-import org.mockito.junit.MockitoJUnitRunner;
+import org.mockito.junit.jupiter.MockitoExtension;
 
-import java.util.Arrays;
-import java.util.List;
+import static org.mockito.Mockito.times;
+import static org.mockito.Mockito.verify;
 
-import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.*;
-import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.Mockito.*;
-
-@RunWith(MockitoJUnitRunner.class)
+@ExtendWith(MockitoExtension.class)
 public class RoomServiceTest {
 
     private RoomService roomService;
@@ -27,7 +20,7 @@ public class RoomServiceTest {
     @Mock
     private RoomRepository roomRepository;
 
-    @Before
+    @BeforeEach
     public void setup() {
         roomService = new RoomService(roomRepository);
     }
@@ -37,27 +30,9 @@ public class RoomServiceTest {
         //GIVEN
         Room room = new Room(51, false);
         //WHEN & THEN
-
-        verify(roomRepository, times(0)).addRoom(room);
+        roomService.addRoom(room);
+//        roomRepository.add(room);
+        verify(roomRepository, times(0)).add(room);
     }
 
-    @Ignore
-    @Test
-    public void checkBookingStatusTest() {
-
-        //GIVEN
-
-        List<Room> rooms = Arrays.asList(new Room(1, true),
-                new Room(2, false),
-                new Room(3, true),
-                new Room(2, false));
-        doReturn(rooms).when(roomRepository).listRooms();
-
-        //WHEN
-        int response = roomService.checkBookingStatus();
-
-        //THEN
-        assertEquals(25, response);
-
-    }
 }

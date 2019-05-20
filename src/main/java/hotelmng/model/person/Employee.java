@@ -1,12 +1,17 @@
 package hotelmng.model.person;
 
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.Calendar;
 
 /**
  * This class models an employee
  */
 
+@Getter
+@Setter
 public abstract class Employee {
 
     private static final int MIN_AGE = 18;
@@ -20,14 +25,6 @@ public abstract class Employee {
         this.id = id;
         this.cnp = cnp;
         this.name = name;
-    }
-
-    public boolean isAtWork() {
-        return isAtWork;
-    }
-
-    public int getId() {
-        return id;
     }
 
     public void checkIn() {

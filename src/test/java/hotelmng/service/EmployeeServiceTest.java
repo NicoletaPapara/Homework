@@ -4,13 +4,14 @@ import hotelmng.exception.EmployeeAgeValidationException;
 import hotelmng.model.person.Employee;
 import hotelmng.model.person.Receptionist;
 import hotelmng.repository.EmployeeRepository;
-import org.junit.Before;
-import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;
-import org.mockito.junit.MockitoJUnitRunner;
+import org.mockito.junit.jupiter.MockitoExtension;
 
-@RunWith(MockitoJUnitRunner.class)
+@ExtendWith(MockitoExtension.class)
 public class EmployeeServiceTest {
 
     private EmployeeService employeeService;
@@ -18,18 +19,18 @@ public class EmployeeServiceTest {
     @Mock
     private EmployeeRepository employeeRepository;
 
-    @Before
+    @BeforeEach
     public void setup() {
         employeeService = new EmployeeService(employeeRepository);
     }
 
-    @Test(expected = EmployeeAgeValidationException.class)
+    @Test
     public void shouldThrowExceptionWhenAgeBelowLimitTest() throws EmployeeAgeValidationException {
         //GIVEN
         Employee employee = new Receptionist(1234, "1181111111111", "Bibi");
 
-        //WHEN
-        employeeService.validateAndAdd(employee);
+        //WHEN & THEN
+        Assertions.assertThrows(EmployeeAgeValidationException.class, () -> employeeService.validateAndAdd(employee));
 
     }
 
