@@ -1,7 +1,9 @@
 package hotelmng.exception;
 
 public class RemoveHotelValidationException extends RuntimeException {
-    public RemoveHotelValidationException(String message) {
+    private final int code;
+    public RemoveHotelValidationException(String message, int code) {
         super(message);
+        this.code = code;
     }
 }

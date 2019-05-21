@@ -4,6 +4,7 @@ import hotelmng.exception.RoomValidationException;
 import hotelmng.model.hotel.Room;
 import hotelmng.repository.RoomRepository;
 import org.apache.log4j.Logger;
+import org.apache.log4j.spi.ErrorCode;
 
 import java.util.Iterator;
 import java.util.List;
@@ -22,7 +23,7 @@ public class RoomService {
     public boolean addRoom(Room room) throws RoomValidationException {
 
         if (room.getRoomNumber() < 1) {
-            throw new RoomValidationException("Number of rooms not valid");
+            throw new RoomValidationException("Number of rooms not valid", ErrorCode.GENERIC_FAILURE);
         }
         roomRepository.add(room);
         return true;

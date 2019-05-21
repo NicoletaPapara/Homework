@@ -3,6 +3,7 @@ package hotelmng.repository;
 import hotelmng.exception.ReservationValidationException;
 import hotelmng.model.hotel.Reservation;
 import hotelmng.repository.interfaces.IReservationRepository;
+import org.apache.log4j.spi.ErrorCode;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +15,7 @@ public class ReservationRepository implements IReservationRepository {
     public boolean addReservation(Reservation reservation) throws ReservationValidationException {
 
         if (reservation.getCheckInDate().compareTo(reservation.getCheckOutDate()) >= 0) {
-            throw new ReservationValidationException("Check in date must be set before check out date");
+            throw new ReservationValidationException("Check in date must be set before check out date", ErrorCode.GENERIC_FAILURE);
         }
         reservations.add(reservation);
         return true;

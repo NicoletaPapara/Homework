@@ -669,3 +669,97 @@
 2019-05-20 22:53:46 DEBUG HotelService:39 - Name too long
 2019-05-20 22:53:46 DEBUG HotelService:29 - Not enough rooms
 2019-05-20 22:53:46 DEBUG HotelService:34 - Name too short
+2019-05-21 22:48:52 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-21 22:48:52 INFO  MainClass:211 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-21 22:48:52 INFO  MainClass:211 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-21 22:48:52 INFO  MainClass:211 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-21 22:48:52 INFO  MainClass:226 - room 1: is reserved
+2019-05-21 22:48:52 INFO  MainClass:226 - room 2: is not reserved
+2019-05-21 22:48:52 INFO  MainClass:226 - room 3: is reserved
+2019-05-21 22:48:52 ERROR MainClass:92 - Employee age should be between 18 and 60
+2019-05-21 22:48:54 INFO  MainClass:194 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-21 22:48:54 INFO  MainClass:98 - REGULAR
+2019-05-21 22:48:54 INFO  MainClass:99 - can contain any type of ingredient
+2019-05-21 22:48:54 INFO  MainClass:100 - false
+2019-05-21 22:48:54 INFO  MainClass:156 - 19
+2019-05-21 22:48:54 INFO  MainClass:164 - 20
+2019-05-21 22:48:54 INFO  MainClass:62 - MR Victor 1050596555555
+2019-05-21 22:48:54 INFO  MainClass:62 - MS efcF 9335216581342
+2019-05-21 22:48:54 INFO  MainClass:62 - MS RQmD 2896828082205
+2019-05-21 22:48:54 INFO  MainClass:62 - MS scmz 7153553630493
+2019-05-21 22:48:54 INFO  MainClass:62 - MS acrC 1292925151008
+2019-05-21 22:48:54 INFO  MainClass:62 - MS uoVq 6636939481215
+2019-05-21 22:48:54 INFO  MainClass:62 - MS BTOe 2895878689400
+2019-05-21 22:48:54 INFO  MainClass:62 - MS JxDX 9394792212568
+2019-05-21 22:48:54 INFO  MainClass:62 - MS jeGZ 7084835276830
+2019-05-21 22:48:54 INFO  MainClass:62 - MS EnFm 4691385823736
+2019-05-21 22:48:54 INFO  MainClass:62 - MS SiAV 7634303345836
+2019-05-21 22:48:54 INFO  MainClass:62 - MS pafV 5496797943563
+2019-05-21 22:48:54 INFO  MainClass:62 - MS RTXo 6604370013070
+2019-05-21 22:48:54 INFO  MainClass:62 - MS EQhv 7828402324432
+2019-05-21 22:48:54 INFO  MainClass:62 - MS Niol 1490523111973
+2019-05-21 22:48:54 INFO  MainClass:62 - MS CSqZ 6543648235167
+2019-05-21 22:48:54 INFO  MainClass:62 - MS EEtA 8502704560312
+2019-05-21 22:48:54 INFO  MainClass:62 - MS BSVT 3049105125079
+2019-05-21 22:48:54 INFO  MainClass:62 - MS RXkQ 9900220131604
+2019-05-21 22:48:54 INFO  MainClass:62 - MS fjGZ 8728448234698
+2019-05-21 22:48:54 INFO  MainClass:70 - GBxI (10) 
+2019-05-21 22:48:54 INFO  MainClass:70 - MIAC (2) 
+2019-05-21 22:48:54 INFO  MainClass:70 - PGKc (7) 
+2019-05-21 22:48:54 INFO  MainClass:70 - PPQy (1) 
+2019-05-21 22:48:54 INFO  MainClass:70 - XwiM (4) 
+2019-05-21 22:48:54 INFO  MainClass:70 - cBkO (6) 
+2019-05-21 22:48:54 INFO  MainClass:70 - fLMV (3) 
+2019-05-21 22:48:54 INFO  MainClass:70 - hJiw (9) 
+2019-05-21 22:48:54 INFO  MainClass:70 - ryBl (5) 
+2019-05-21 22:48:54 INFO  MainClass:70 - xpaS (8) 
+2019-05-21 22:48:54 INFO  MainClass:115 - EmployeesMap has 3 entries.
+2019-05-21 22:48:54 INFO  MainClass:81 - Average age of random Employee list is: 
+2019-05-21 22:48:54 INFO  MainClass:82 - 59.75
+2019-05-21 23:17:11 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-21 23:17:11 INFO  MainClass:211 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-21 23:17:11 INFO  MainClass:211 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-21 23:17:11 INFO  MainClass:211 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-21 23:17:11 INFO  MainClass:226 - room 1: is reserved
+2019-05-21 23:17:11 INFO  MainClass:226 - room 2: is not reserved
+2019-05-21 23:17:11 INFO  MainClass:226 - room 3: is reserved
+2019-05-21 23:17:11 ERROR MainClass:92 - Employee age should be between 18 and 60
+2019-05-21 23:17:11 INFO  MainClass:194 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-21 23:17:11 INFO  MainClass:98 - REGULAR
+2019-05-21 23:17:11 INFO  MainClass:99 - can contain any type of ingredient
+2019-05-21 23:17:11 INFO  MainClass:100 - false
+2019-05-21 23:17:11 INFO  MainClass:156 - 19
+2019-05-21 23:17:11 INFO  MainClass:164 - 20
+2019-05-21 23:17:11 INFO  MainClass:62 - MS TNnz 1241027333328
+2019-05-21 23:17:11 INFO  MainClass:62 - MS awHj 1556592661247
+2019-05-21 23:17:11 INFO  MainClass:62 - MS urcz 1435941966787
+2019-05-21 23:17:11 INFO  MainClass:62 - MS pzpo 5737633893658
+2019-05-21 23:17:11 INFO  MainClass:62 - MR Victor 1050596555555
+2019-05-21 23:17:11 INFO  MainClass:62 - MS YZMv 0323852147072
+2019-05-21 23:17:11 INFO  MainClass:62 - MS XsYA 0691116655465
+2019-05-21 23:17:11 INFO  MainClass:62 - MS qhtO 2554799771823
+2019-05-21 23:17:11 INFO  MainClass:62 - MS VhYn 6273497759411
+2019-05-21 23:17:11 INFO  MainClass:62 - MS SnOT 2662022440540
+2019-05-21 23:17:11 INFO  MainClass:62 - MS sOSK 8846526610880
+2019-05-21 23:17:11 INFO  MainClass:62 - MS nYvF 8407429953948
+2019-05-21 23:17:11 INFO  MainClass:62 - MS qkjg 5257287402822
+2019-05-21 23:17:11 INFO  MainClass:62 - MS iECB 3888627401211
+2019-05-21 23:17:11 INFO  MainClass:62 - MS SkEA 1281606482943
+2019-05-21 23:17:11 INFO  MainClass:62 - MS WzCG 2825407854651
+2019-05-21 23:17:11 INFO  MainClass:62 - MS NABl 0688772179906
+2019-05-21 23:17:11 INFO  MainClass:62 - MS GvIH 2347830451582
+2019-05-21 23:17:11 INFO  MainClass:62 - MS PwIK 7292426575037
+2019-05-21 23:17:11 INFO  MainClass:62 - MS kOcy 4269781808013
+2019-05-21 23:17:11 INFO  MainClass:70 - BtoQ (6) 
+2019-05-21 23:17:11 INFO  MainClass:70 - KVsM (3) 
+2019-05-21 23:17:11 INFO  MainClass:70 - Pffe (2) 
+2019-05-21 23:17:11 INFO  MainClass:70 - SIIP (7) 
+2019-05-21 23:17:11 INFO  MainClass:70 - YlUp (10) 
+2019-05-21 23:17:11 INFO  MainClass:70 - bHpq (9) 
+2019-05-21 23:17:11 INFO  MainClass:70 - dASn (5) 
+2019-05-21 23:17:11 INFO  MainClass:70 - nvRp (4) 
+2019-05-21 23:17:11 INFO  MainClass:70 - piKv (8) 
+2019-05-21 23:17:11 INFO  MainClass:70 - vEOm (1) 
+2019-05-21 23:17:11 INFO  MainClass:115 - EmployeesMap has 3 entries.
+2019-05-21 23:17:11 INFO  MainClass:81 - Average age of random Employee list is: 
+2019-05-21 23:17:11 INFO  MainClass:82 - 27.5
