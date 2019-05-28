@@ -2,6 +2,7 @@ package hotelmng.service;
 
 import hotelmng.model.hotel.Hotel;
 import hotelmng.repository.HotelRepository;
+import lombok.extern.java.Log;
 import org.apache.log4j.Logger;
 
 /**
@@ -9,7 +10,7 @@ import org.apache.log4j.Logger;
  * less then 10 rooms, have the name shorter then 4 characters or longer then 15 characters cannot be added to the
  * repository. A hotel that has rooms reserved can't be removed from the repository and a validation exception is thrown.
  */
-
+@Log
 public class HotelService {
 
     private Logger logger = Logger.getLogger("HotelService");

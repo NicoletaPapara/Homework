@@ -27,6 +27,14 @@ public abstract class Employee {
         this.name = name;
     }
 
+    public static int getMinAge() {
+        return MIN_AGE;
+    }
+
+    public static int getMaxAge() {
+        return MAX_AGE;
+    }
+
     public void checkIn() {
         this.isAtWork = true;
     }
@@ -51,14 +59,6 @@ public abstract class Employee {
         int year2 = Calendar.getInstance().get(Calendar.YEAR);
 
         return year2 - year1;
-    }
-
-    public static int getMinAge() {
-        return MIN_AGE;
-    }
-
-    public static int getMaxAge() {
-        return MAX_AGE;
     }
 
     @Override

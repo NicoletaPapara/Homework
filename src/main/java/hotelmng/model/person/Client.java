@@ -1,5 +1,7 @@
 package hotelmng.model.person;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -10,6 +12,8 @@ import java.util.Objects;
  */
 @Getter
 @Setter
+@Builder
+@AllArgsConstructor
 public class Client {
     private String cnp;
     private String name;
@@ -17,17 +21,6 @@ public class Client {
     private String emailAddress;
     private Title title;
 
-
-    public Client(String cnp, String name, Title title) {
-        this.cnp = cnp;
-        this.name = name;
-        this.title = title;
-    }
-
-    public Client(String cnp, String name) {
-        this.cnp = cnp;
-        this.name = name;
-    }
 
     @Override
     public boolean equals(Object obj) {

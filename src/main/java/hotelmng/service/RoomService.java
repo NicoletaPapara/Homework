@@ -1,7 +1,7 @@
 package hotelmng.service;
 
 import hotelmng.exception.RoomValidationException;
-import hotelmng.model.hotel.Room;
+import hotelmng.model.Room;
 import hotelmng.repository.RoomRepository;
 import org.apache.log4j.Logger;
 import org.apache.log4j.spi.ErrorCode;

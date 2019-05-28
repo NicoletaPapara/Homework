@@ -1,11 +1,14 @@
 package hotelmng;
 
 import hotelmng.exception.EmployeeAgeValidationException;
+import hotelmng.model.Room;
 import hotelmng.model.hotel.Hotel;
 import hotelmng.model.hotel.MealPreference;
 import hotelmng.model.hotel.Reservation;
-import hotelmng.model.hotel.Room;
-import hotelmng.model.person.*;
+import hotelmng.model.person.Client;
+import hotelmng.model.person.Employee;
+import hotelmng.model.person.HouseKeeper;
+import hotelmng.model.person.Receptionist;
 import hotelmng.service.EmployeeService;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
@@ -16,6 +19,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 
 public class MainClass {
@@ -33,10 +38,10 @@ public class MainClass {
                 " is located at " + myHotel.getAddress() +
                 " and has " + myHotel.getNumberOfRooms() + " rooms.");
 
-        //IO examples
+        //IO examples & builder pattern example
 
         readReservationDetails();
-        readRoomInformation();
+        readRoomInformation().forEach(System.out::println);
 
         //Custom exception example
 
@@ -80,6 +85,64 @@ public class MainClass {
 
         logger.info("Average age of random Employee list is: ");
         logger.info(calculateEmployeesAverageAge(generateRandomEmployeeList(4)));
+
+        //Optional example
+
+        optionalExample();
+
+        streamOperationsExample();
+    }
+
+    private static void streamOperationsExample() {
+
+        //counts the number of employees that are 25 years old from a random employee list
+        logger.info(generateRandomEmployeeList(10).stream().filter(employee -> employee.getAge() == 25).count());
+
+        //checks if there are any available rooms
+        List<Room> rooms = readRoomInformation();
+        logger.info("There are available rooms: " + rooms.stream().anyMatch(room -> room.isReserved() == false));
+
+        //sorts the hotels by number of rooms
+        Hotel hotel1 = new Hotel("Beethoven", 90);
+        Hotel hotel2 = new Hotel("Chopin", 80);
+        Hotel hotel3 = new Hotel("Verdi", 70);
+
+        Stream.of(hotel1, hotel2, hotel3)
+                .sorted(Comparator.comparingInt(Hotel::getNumberOfRooms))
+                .forEach(System.out::println);
+
+        //collects clients' email addresses in a list
+
+        List<Client> clients = generateRandomClientList(10);
+
+        List<String> emails = clients
+                .stream()
+                .map(Client::getEmailAddress)
+                .collect(Collectors.toList());
+
+    }
+
+    private static List<Client> generateRandomClientList(int size) {
+        List<Client> clients = new ArrayList<>();
+        for (int i = 1; i <= size; i++) {
+            clients.add(Client.builder().
+                    emailAddress(RandomStringUtils.random(10, true, false))
+                    .build());
+        }
+        return clients;
+    }
+
+    private static void optionalExample() {
+
+        //prints the eldest employee
+        List<Employee> employees = generateRandomEmployeeList(10);
+        Optional<Employee> eldestEmployee = employees.stream().max(Comparator.comparingInt(Employee::getAge));
+        if (eldestEmployee.isPresent()) {
+            logger.info("Eldest employee is: " + eldestEmployee.get());
+        }
+
+        //prints the youngest employee
+        employees.stream().reduce((e1, e2) -> e1.getAge() < e2.getAge() ? e1 : e2).ifPresent(employee -> System.out.println("Youngest employee is: " + employee));
     }
 
     public static void customExceptionExample() {
@@ -114,30 +177,32 @@ public class MainClass {
 
         logger.info("EmployeesMap has " + employeeMap.size() + " entries.");
 
-        for(UUID key: employeeMap.keySet()){
-            System.out.println(employeeMap.get(key));
-        }
+//        for(UUID key: employeeMap.keySet()){
+//            System.out.println(employeeMap.get(key));
+//        }
+
+        employeeMap.values().forEach(value -> logger.info(value));
     }
 
     private static List<Employee> generateRandomEmployeeList(int size) {
 
         List<Employee> employees = new ArrayList<>();
         Random random = new Random();
-        for (int i = 1; i <= size; i++){
+        for (int i = 1; i <= size; i++) {
             Employee employee = new HouseKeeper(
                     random.nextInt(10000),
-                    RandomStringUtils.random(13,false,true),
-                    RandomStringUtils.random(5, true, false) + " " + RandomStringUtils.random(5, true ,false));
+                    RandomStringUtils.random(13, false, true),
+                    RandomStringUtils.random(5, true, false) + " " + RandomStringUtils.random(5, true, false));
             employees.add(employee);
         }
-            return employees;
+        return employees;
     }
 
     private static List<Room> createAListOfRoomsAndOrderByName(int numberOfRooms) {
         List<Room> rooms = new ArrayList<>();
         for (int i = 1; i <= numberOfRooms; i++) {
             String roomName = RandomStringUtils.random(4, true, false);
-            rooms.add(new Room(i, roomName));
+            rooms.add(Room.builder().roomNumber(i).name(roomName).build());
         }
         Comparator<Room> sortByName = Comparator.comparing(Room::getName);
         rooms.sort(sortByName);
@@ -150,16 +215,16 @@ public class MainClass {
         for (int i = 1; i < n; i++) {
             String cnp = RandomStringUtils.random(13, false, true);
             String name = RandomStringUtils.random(4, true, false);
-            clients.add(new Client(cnp, name, Title.MS));
+            clients.add(Client.builder().cnp(cnp).name(name).build());
         }
 
         logger.info(clients.size());
 
         //clients having the same cnp cannot be added to the set
 
-        clients.add(new Client("1050596555555", "Victor", Title.MR));
-        clients.add(new Client("1050596555555", "Alex", Title.MR));
-        clients.add(new Client("1050596555555", "Lucien", Title.MR));
+        clients.add(Client.builder().cnp("1050596555555").name("Victor").build());
+        clients.add(Client.builder().cnp("1050596555555").name("Alex").build());
+        clients.add(Client.builder().cnp("1050596555555").name("Lucien").build());
 
         logger.info(clients.size());
         return clients;
@@ -215,7 +280,9 @@ public class MainClass {
         }
     }
 
-    public static void readRoomInformation() {
+    public static List<Room> readRoomInformation() {
+        List<Room> rooms = new ArrayList<>();
+
         Charset charset2 = Charset.forName("UTF8");
         Path path2 = Paths.get("rooms.txt");
 
@@ -223,10 +290,16 @@ public class MainClass {
             String line = null;
 
             while ((line = reader.readLine()) != null) {
-                logger.info(line);
+                String[] tokens = line.split(",");
+                rooms.add(Room.builder()
+                        .roomNumber(Integer.parseInt(tokens[0]))
+                        .isReserved(Boolean.getBoolean(tokens[1]))
+                        .name(tokens[2])
+                        .build());
             }
         } catch (IOException e) {
             logger.error("Cannot find the file");
         }
+        return rooms;
     }
 }

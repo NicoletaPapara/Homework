@@ -422,16 +422,16 @@
 2019-05-20 22:29:22 INFO  MainClass:63 - MS dhTh 0576594800614
 2019-05-20 22:29:22 INFO  MainClass:63 - MS HgUW 4762310787852
 2019-05-20 22:29:22 INFO  MainClass:63 - MS VWHo 8001248307987
-2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
-2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.hotel.Room@74294adb, hotelmng.model.hotel.Room@70a9f84e, hotelmng.model.hotel.Room@130f889, hotelmng.model.hotel.Room@1188e820, hotelmng.model.hotel.Room@2f490758, hotelmng.model.hotel.Room@101df177, hotelmng.model.hotel.Room@166fa74d, hotelmng.model.hotel.Room@40f08448, hotelmng.model.hotel.Room@276438c9, hotelmng.model.hotel.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:22 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
+2019-05-20 22:29:25 INFO  MainClass:71 - [hotelmng.model.Room@74294adb, hotelmng.model.Room@70a9f84e, hotelmng.model.Room@130f889, hotelmng.model.Room@1188e820, hotelmng.model.Room@2f490758, hotelmng.model.Room@101df177, hotelmng.model.Room@166fa74d, hotelmng.model.Room@40f08448, hotelmng.model.Room@276438c9, hotelmng.model.Room@588df31b]
 2019-05-20 22:32:15 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
 2019-05-20 22:32:15 ERROR MainClass:42 - Employee age should be between 18 and 60
 2019-05-20 22:32:15 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
@@ -460,16 +460,16 @@
 2019-05-20 22:32:15 INFO  MainClass:63 - MS tbJi 2468494138859
 2019-05-20 22:32:15 INFO  MainClass:63 - MS UUtF 7873367452937
 2019-05-20 22:32:15 INFO  MainClass:63 - MS ItSF 9836562126799
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
-2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.hotel.Room@62e136d3, hotelmng.model.hotel.Room@c8e4bb0, hotelmng.model.hotel.Room@6279cee3, hotelmng.model.hotel.Room@4206a205, hotelmng.model.hotel.Room@29ba4338, hotelmng.model.hotel.Room@57175e74, hotelmng.model.hotel.Room@7bb58ca3, hotelmng.model.hotel.Room@c540f5a, hotelmng.model.hotel.Room@770c2e6b, hotelmng.model.hotel.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
+2019-05-20 22:32:16 INFO  MainClass:71 - [hotelmng.model.Room@62e136d3, hotelmng.model.Room@c8e4bb0, hotelmng.model.Room@6279cee3, hotelmng.model.Room@4206a205, hotelmng.model.Room@29ba4338, hotelmng.model.Room@57175e74, hotelmng.model.Room@7bb58ca3, hotelmng.model.Room@c540f5a, hotelmng.model.Room@770c2e6b, hotelmng.model.Room@1a052a00]
 2019-05-20 22:35:43 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
 2019-05-20 22:35:43 ERROR MainClass:42 - Employee age should be between 18 and 60
 2019-05-20 22:35:43 INFO  MainClass:184 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
@@ -498,16 +498,16 @@
 2019-05-20 22:35:43 INFO  MainClass:63 - MS PSHq 7820227964570
 2019-05-20 22:35:43 INFO  MainClass:63 - MS rbiV 9827492113181
 2019-05-20 22:35:43 INFO  MainClass:63 - MS belF 1245849588474
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@2473b9ce
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@60438a68
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@140e5a13
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@3439f68d
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@dbd940d
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@71d15f18
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@17695df3
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@6c9f5c0d
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@de3a06f
-2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.hotel.Room@76b10754
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@2473b9ce
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@60438a68
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@140e5a13
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@3439f68d
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@dbd940d
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@71d15f18
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@17695df3
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@6c9f5c0d
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@de3a06f
+2019-05-20 22:35:43 INFO  MainClass:71 - hotelmng.model.Room@76b10754
 2019-05-20 22:35:43 INFO  MainClass:104 - EmployeesMap has 3 entries.
 2019-05-20 22:37:06 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
 2019-05-20 22:37:06 ERROR MainClass:42 - Employee age should be between 18 and 60
@@ -763,3 +763,191 @@
 2019-05-21 23:17:11 INFO  MainClass:115 - EmployeesMap has 3 entries.
 2019-05-21 23:17:11 INFO  MainClass:81 - Average age of random Employee list is: 
 2019-05-21 23:17:11 INFO  MainClass:82 - 27.5
+2019-05-21 23:24:34 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-21 23:24:34 INFO  MainClass:211 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-21 23:24:34 INFO  MainClass:211 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-21 23:24:34 INFO  MainClass:211 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-21 23:24:34 INFO  MainClass:226 - room 1: is reserved
+2019-05-21 23:24:34 INFO  MainClass:226 - room 2: is not reserved
+2019-05-21 23:24:34 INFO  MainClass:226 - room 3: is reserved
+2019-05-21 23:24:34 ERROR MainClass:92 - Employee age should be between 18 and 60
+2019-05-21 23:24:34 INFO  MainClass:194 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-21 23:24:34 INFO  MainClass:98 - REGULAR
+2019-05-21 23:24:34 INFO  MainClass:99 - can contain any type of ingredient
+2019-05-21 23:24:34 INFO  MainClass:100 - false
+2019-05-21 23:24:34 INFO  MainClass:156 - 19
+2019-05-21 23:24:34 INFO  MainClass:164 - 20
+2019-05-21 23:24:34 INFO  MainClass:62 - MS stNi 9286667069746
+2019-05-21 23:24:34 INFO  MainClass:62 - MS GDTo 9355346481181
+2019-05-21 23:24:34 INFO  MainClass:62 - MR Victor 1050596555555
+2019-05-21 23:24:34 INFO  MainClass:62 - MS FarO 6298925266010
+2019-05-21 23:24:34 INFO  MainClass:62 - MS qLab 5977557099911
+2019-05-21 23:24:34 INFO  MainClass:62 - MS wRBK 1569275393519
+2019-05-21 23:24:34 INFO  MainClass:62 - MS fVcC 0773462236659
+2019-05-21 23:24:34 INFO  MainClass:62 - MS uWoQ 6728903587615
+2019-05-21 23:24:34 INFO  MainClass:62 - MS NluI 4415196854796
+2019-05-21 23:24:34 INFO  MainClass:62 - MS BRax 9245095886264
+2019-05-21 23:24:34 INFO  MainClass:62 - MS cBhq 0635504720582
+2019-05-21 23:24:34 INFO  MainClass:62 - MS myzY 2756401308075
+2019-05-21 23:24:34 INFO  MainClass:62 - MS MODq 8057128463603
+2019-05-21 23:24:34 INFO  MainClass:62 - MS hUbl 9312610430142
+2019-05-21 23:24:34 INFO  MainClass:62 - MS cHAf 1213835961465
+2019-05-21 23:24:34 INFO  MainClass:62 - MS LLoP 6004618988847
+2019-05-21 23:24:34 INFO  MainClass:62 - MS XmTY 4518497021052
+2019-05-21 23:24:34 INFO  MainClass:62 - MS fRak 4950968399795
+2019-05-21 23:24:34 INFO  MainClass:62 - MS VRGk 6341866858899
+2019-05-21 23:24:34 INFO  MainClass:62 - MS tDWF 7034042948994
+2019-05-21 23:24:34 INFO  MainClass:70 - EGtj (2) 
+2019-05-21 23:24:34 INFO  MainClass:70 - FYmv (9) 
+2019-05-21 23:24:34 INFO  MainClass:70 - JArj (6) 
+2019-05-21 23:24:34 INFO  MainClass:70 - KLhL (1) 
+2019-05-21 23:24:34 INFO  MainClass:70 - Ohgn (5) 
+2019-05-21 23:24:34 INFO  MainClass:70 - QtSp (8) 
+2019-05-21 23:24:34 INFO  MainClass:70 - UmcN (4) 
+2019-05-21 23:24:34 INFO  MainClass:70 - jlgu (7) 
+2019-05-21 23:24:34 INFO  MainClass:70 - ljyE (3) 
+2019-05-21 23:24:34 INFO  MainClass:70 - qrnh (10) 
+2019-05-21 23:24:34 INFO  MainClass:115 - EmployeesMap has 3 entries.
+2019-05-21 23:24:34 INFO  MainClass:81 - Average age of random Employee list is: 
+2019-05-21 23:24:34 INFO  MainClass:82 - 34.0
+2019-05-27 19:07:24 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-27 19:07:25 INFO  MainClass:211 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-27 19:07:25 INFO  MainClass:211 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-27 19:07:25 INFO  MainClass:211 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-27 19:07:25 INFO  MainClass:226 - room 1: is reserved
+2019-05-27 19:07:25 INFO  MainClass:226 - room 2: is not reserved
+2019-05-27 19:07:25 INFO  MainClass:226 - room 3: is reserved
+2019-05-27 19:07:25 ERROR MainClass:92 - Employee age should be between 18 and 60
+2019-05-27 19:07:25 INFO  MainClass:194 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-27 19:07:25 INFO  MainClass:98 - REGULAR
+2019-05-27 19:07:25 INFO  MainClass:99 - can contain any type of ingredient
+2019-05-27 19:07:25 INFO  MainClass:100 - false
+2019-05-27 19:07:26 INFO  MainClass:156 - 19
+2019-05-27 19:07:26 INFO  MainClass:164 - 20
+2019-05-27 19:07:26 INFO  MainClass:62 - MS ntjz 0841666461635
+2019-05-27 19:07:26 INFO  MainClass:62 - MS tXgk 1663998294393
+2019-05-27 19:07:26 INFO  MainClass:62 - MR Victor 1050596555555
+2019-05-27 19:07:26 INFO  MainClass:62 - MS HUPf 4538952324811
+2019-05-27 19:07:26 INFO  MainClass:62 - MS FIgc 2788033593849
+2019-05-27 19:07:26 INFO  MainClass:62 - MS XLqa 6335143587579
+2019-05-27 19:07:26 INFO  MainClass:62 - MS Ikhk 3122241104492
+2019-05-27 19:07:26 INFO  MainClass:62 - MS gudd 4358466003789
+2019-05-27 19:07:26 INFO  MainClass:62 - MS GYsl 6685901851865
+2019-05-27 19:07:26 INFO  MainClass:62 - MS CStg 8459539490345
+2019-05-27 19:07:26 INFO  MainClass:62 - MS yQkt 9848007238804
+2019-05-27 19:07:26 INFO  MainClass:62 - MS Zbys 3900425409086
+2019-05-27 19:07:26 INFO  MainClass:62 - MS eFIu 2378406306248
+2019-05-27 19:07:26 INFO  MainClass:62 - MS DMHb 7360561569479
+2019-05-27 19:07:26 INFO  MainClass:62 - MS mOVl 0383747860787
+2019-05-27 19:07:26 INFO  MainClass:62 - MS VUSq 9763686180097
+2019-05-27 19:07:26 INFO  MainClass:62 - MS brSd 3048418343443
+2019-05-27 19:07:26 INFO  MainClass:62 - MS ooGN 0887204381269
+2019-05-27 19:07:26 INFO  MainClass:62 - MS HWKG 9890344784651
+2019-05-27 19:07:26 INFO  MainClass:62 - MS ltjE 2401068002473
+2019-05-27 19:07:26 INFO  MainClass:70 - Ggoz (8) 
+2019-05-27 19:07:26 INFO  MainClass:70 - YzpU (1) 
+2019-05-27 19:07:26 INFO  MainClass:70 - ffha (10) 
+2019-05-27 19:07:26 INFO  MainClass:70 - luQg (6) 
+2019-05-27 19:07:26 INFO  MainClass:70 - mvfj (9) 
+2019-05-27 19:07:26 INFO  MainClass:70 - ociw (7) 
+2019-05-27 19:07:26 INFO  MainClass:70 - sAJt (4) 
+2019-05-27 19:07:26 INFO  MainClass:70 - tfcj (2) 
+2019-05-27 19:07:26 INFO  MainClass:70 - zIwc (3) 
+2019-05-27 19:07:26 INFO  MainClass:70 - zeFs (5) 
+2019-05-27 19:07:26 INFO  MainClass:115 - EmployeesMap has 3 entries.
+2019-05-27 19:07:26 INFO  MainClass:81 - Average age of random Employee list is: 
+2019-05-27 19:07:26 INFO  MainClass:82 - 54.0
+2019-05-27 19:16:15 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-27 19:16:15 INFO  MainClass:213 - reservation 1: 2019-05-01 to 2019-05-05
+2019-05-27 19:16:15 INFO  MainClass:213 - reservation 2: 2019-05-03 to 2019-05-08
+2019-05-27 19:16:15 INFO  MainClass:213 - reservation 3: 2019-05-04 to 2019-05-08
+2019-05-27 19:16:15 INFO  MainClass:228 - room 1: is reserved
+2019-05-27 19:16:15 INFO  MainClass:228 - room 2: is not reserved
+2019-05-27 19:16:15 INFO  MainClass:228 - room 3: is reserved
+2019-05-27 19:16:15 ERROR MainClass:92 - Employee age should be between 18 and 60
+2019-05-27 19:16:15 INFO  MainClass:196 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-27 19:16:15 INFO  MainClass:98 - REGULAR
+2019-05-27 19:16:15 INFO  MainClass:99 - can contain any type of ingredient
+2019-05-27 19:16:15 INFO  MainClass:100 - false
+2019-05-27 19:16:15 INFO  MainClass:158 - 19
+2019-05-27 19:16:15 INFO  MainClass:166 - 20
+2019-05-27 19:16:15 INFO  MainClass:62 - MR Victor 1050596555555
+2019-05-27 19:16:15 INFO  MainClass:62 - MS QGfs 1242453217963
+2019-05-27 19:16:15 INFO  MainClass:62 - MS vBAd 7778238729719
+2019-05-27 19:16:15 INFO  MainClass:62 - MS hwei 9667685059236
+2019-05-27 19:16:15 INFO  MainClass:62 - MS XQam 6675259223029
+2019-05-27 19:16:15 INFO  MainClass:62 - MS qnzv 0300629274651
+2019-05-27 19:16:15 INFO  MainClass:62 - MS mKwP 9476889370714
+2019-05-27 19:16:15 INFO  MainClass:62 - MS RxdS 8475242591651
+2019-05-27 19:16:15 INFO  MainClass:62 - MS jiJw 5890609839277
+2019-05-27 19:16:15 INFO  MainClass:62 - MS NvBv 9682326736868
+2019-05-27 19:16:15 INFO  MainClass:62 - MS kaQC 8663814236324
+2019-05-27 19:16:15 INFO  MainClass:62 - MS VxpZ 1064641164000
+2019-05-27 19:16:15 INFO  MainClass:62 - MS zkxz 2163116601685
+2019-05-27 19:16:15 INFO  MainClass:62 - MS CIfn 6786001578612
+2019-05-27 19:16:15 INFO  MainClass:62 - MS EKqB 5558553623131
+2019-05-27 19:16:15 INFO  MainClass:62 - MS wuAX 9396586282376
+2019-05-27 19:16:15 INFO  MainClass:62 - MS coGC 8026152009931
+2019-05-27 19:16:15 INFO  MainClass:62 - MS QIvF 0448312956580
+2019-05-27 19:16:15 INFO  MainClass:62 - MS RiKe 3456879543141
+2019-05-27 19:16:15 INFO  MainClass:62 - MS vAyr 8841039379974
+2019-05-27 19:16:15 INFO  MainClass:70 - MeYb (3) 
+2019-05-27 19:16:15 INFO  MainClass:70 - NFbv (5) 
+2019-05-27 19:16:15 INFO  MainClass:70 - PSZx (2) 
+2019-05-27 19:16:15 INFO  MainClass:70 - WSiL (10) 
+2019-05-27 19:16:15 INFO  MainClass:70 - eQbF (6) 
+2019-05-27 19:16:15 INFO  MainClass:70 - gSwj (7) 
+2019-05-27 19:16:15 INFO  MainClass:70 - hEzB (8) 
+2019-05-27 19:16:15 INFO  MainClass:70 - revl (4) 
+2019-05-27 19:16:15 INFO  MainClass:70 - twkt (1) 
+2019-05-27 19:16:15 INFO  MainClass:70 - wfkR (9) 
+2019-05-27 19:16:15 INFO  MainClass:115 - EmployeesMap has 3 entries.
+2019-05-27 19:16:15 INFO  MainClass:81 - Average age of random Employee list is: 
+2019-05-27 19:16:15 INFO  MainClass:82 - 51.25
+2019-05-27 20:37:53 INFO  MainClass:32 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-05-27 20:37:53 INFO  MainClass:213 - reservation 1,2019-05-01,2019-05-05
+2019-05-27 20:37:53 INFO  MainClass:213 - reservation 2,2019-05-03,2019-05-08
+2019-05-27 20:37:53 INFO  MainClass:213 - reservation 3,2019-05-04,2019-05-08
+2019-05-27 20:37:53 ERROR MainClass:92 - Employee age should be between 18 and 60
+2019-05-27 20:37:53 INFO  MainClass:196 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-05-27 20:37:53 INFO  MainClass:98 - REGULAR
+2019-05-27 20:37:53 INFO  MainClass:99 - can contain any type of ingredient
+2019-05-27 20:37:53 INFO  MainClass:100 - false
+2019-05-27 20:37:53 INFO  MainClass:158 - 19
+2019-05-27 20:37:53 INFO  MainClass:166 - 20
+2019-05-27 20:37:53 INFO  MainClass:62 - MS UvPk 6567209770248
+2019-05-27 20:37:53 INFO  MainClass:62 - MS gdTN 4509343243353
+2019-05-27 20:37:53 INFO  MainClass:62 - MS wksC 8670395731327
+2019-05-27 20:37:53 INFO  MainClass:62 - MR Victor 1050596555555
+2019-05-27 20:37:53 INFO  MainClass:62 - MS slrg 7147818962127
+2019-05-27 20:37:53 INFO  MainClass:62 - MS GUAc 1380010961964
+2019-05-27 20:37:53 INFO  MainClass:62 - MS tzfT 5985613304674
+2019-05-27 20:37:53 INFO  MainClass:62 - MS IiHJ 8414109542317
+2019-05-27 20:37:53 INFO  MainClass:62 - MS ympU 6057555537115
+2019-05-27 20:37:53 INFO  MainClass:62 - MS POvF 2712048461526
+2019-05-27 20:37:53 INFO  MainClass:62 - MS ALoI 5628908442406
+2019-05-27 20:37:53 INFO  MainClass:62 - MS AZKq 7843368603015
+2019-05-27 20:37:53 INFO  MainClass:62 - MS yQlG 2915025297614
+2019-05-27 20:37:53 INFO  MainClass:62 - MS TVbe 4199813227498
+2019-05-27 20:37:53 INFO  MainClass:62 - MS vRDe 1285840565749
+2019-05-27 20:37:53 INFO  MainClass:62 - MS BKJd 1044874636107
+2019-05-27 20:37:53 INFO  MainClass:62 - MS dYQk 4743984071401
+2019-05-27 20:37:53 INFO  MainClass:62 - MS xhZg 2537908192774
+2019-05-27 20:37:53 INFO  MainClass:62 - MS xBRM 6591178910555
+2019-05-27 20:37:53 INFO  MainClass:62 - MS UqVu 4358279607528
+2019-05-27 20:37:53 INFO  MainClass:70 - FykM (2) 
+2019-05-27 20:37:53 INFO  MainClass:70 - GGwe (9) 
+2019-05-27 20:37:53 INFO  MainClass:70 - MTah (6) 
+2019-05-27 20:37:53 INFO  MainClass:70 - XNgf (1) 
+2019-05-27 20:37:53 INFO  MainClass:70 - bGQu (8) 
+2019-05-27 20:37:53 INFO  MainClass:70 - fAzX (3) 
+2019-05-27 20:37:53 INFO  MainClass:70 - fCoQ (10) 
+2019-05-27 20:37:53 INFO  MainClass:70 - gYcU (4) 
+2019-05-27 20:37:53 INFO  MainClass:70 - rIaI (7) 
+2019-05-27 20:37:53 INFO  MainClass:70 - vBER (5) 
+2019-05-27 20:37:53 INFO  MainClass:115 - EmployeesMap has 3 entries.
+2019-05-27 20:37:53 INFO  MainClass:121 - [jMMSt NQdtW (ID: 6663), bAAHB yKfCA (ID: 6260), KCHnM WBueh (ID: 6015)]
+2019-05-27 20:37:53 INFO  MainClass:121 - [UEqNp mNgER (ID: 9839), AheKe xuioM (ID: 5070), SeVis jgOuk (ID: 2928), xQzgA LKzev (ID: 1576)]
+2019-05-27 20:37:53 INFO  MainClass:121 - [IeRvK NCbhW (ID: 4946), hsYnE TgdsN (ID: 7863), WFpGZ nuzAX (ID: 7393), FWbnj ULZpn (ID: 1460), MkmiR TbxEL (ID: 9805)]
+2019-05-27 20:37:53 INFO  MainClass:81 - Average age of random Employee list is: 
+2019-05-27 20:37:53 INFO  MainClass:82 - 50.0

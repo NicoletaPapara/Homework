@@ -1,7 +1,7 @@
 package hotelmng.service;
 
 import hotelmng.exception.RoomValidationException;
-import hotelmng.model.hotel.Room;
+import hotelmng.model.Room;
 import hotelmng.repository.RoomRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -28,7 +28,8 @@ public class RoomServiceTest {
     @Test
     public void shouldAddRoomWhenRoomNumberIsValid() throws RoomValidationException {
         //GIVEN
-        Room room = new Room(51, false);
+        Room room = Room.builder().roomNumber(51).isReserved(false).build();
+
         //WHEN & THEN
         roomService.addRoom(room);
 //        roomRepository.add(room);

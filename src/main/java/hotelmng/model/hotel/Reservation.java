@@ -1,5 +1,6 @@
 package hotelmng.model.hotel;
 
+import hotelmng.model.Room;
 import hotelmng.model.person.Client;
 import lombok.Getter;
 import lombok.Setter;
