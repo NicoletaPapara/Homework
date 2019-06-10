@@ -1,7 +1,7 @@
 package hotelmng.service;
 
 import hotelmng.exception.RoomValidationException;
-import hotelmng.model.Room;
+import hotelmng.model.room.Room;
 import hotelmng.repository.RoomRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

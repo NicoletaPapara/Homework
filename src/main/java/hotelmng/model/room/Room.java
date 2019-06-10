@@ -1,4 +1,4 @@
-package hotelmng.model;
+package hotelmng.model.room;
 
 import lombok.Builder;
 import lombok.Getter;
