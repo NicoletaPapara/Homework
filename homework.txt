@@ -1591,3 +1591,1167 @@
 2019-06-10 20:44:49 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 53
 2019-06-10 20:44:54 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 478
 2019-06-10 20:44:54 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 53
+2019-06-12 19:28:07 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:28:07 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:28:07 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:28:07 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:28:07 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:28:07 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:28:07 INFO  MainClass:176 - REGULAR
+2019-06-12 19:28:07 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:28:07 INFO  MainClass:178 - false
+2019-06-12 19:28:08 INFO  MainClass:236 - 19
+2019-06-12 19:28:08 INFO  MainClass:244 - 20
+2019-06-12 19:28:08 INFO  MainClass:67 - null NRnB 0288487632150
+2019-06-12 19:28:08 INFO  MainClass:67 - null UhBA 6134047506438
+2019-06-12 19:28:08 INFO  MainClass:67 - null alkj 1513177263846
+2019-06-12 19:28:08 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:28:08 INFO  MainClass:67 - null Lbkc 1159818510252
+2019-06-12 19:28:08 INFO  MainClass:67 - null WYSx 5349510823305
+2019-06-12 19:28:08 INFO  MainClass:67 - null IHeG 1235573534699
+2019-06-12 19:28:08 INFO  MainClass:67 - null EBGT 8161477607848
+2019-06-12 19:28:08 INFO  MainClass:67 - null hdQg 1557329402608
+2019-06-12 19:28:08 INFO  MainClass:67 - null YBko 1951770101276
+2019-06-12 19:28:08 INFO  MainClass:67 - null CmQX 7945884713356
+2019-06-12 19:28:08 INFO  MainClass:67 - null LjRv 4916176074365
+2019-06-12 19:28:08 INFO  MainClass:67 - null jngH 8030401298368
+2019-06-12 19:28:08 INFO  MainClass:67 - null Dyyr 1558983115086
+2019-06-12 19:28:08 INFO  MainClass:67 - null snhg 4453479107904
+2019-06-12 19:28:08 INFO  MainClass:67 - null gxrG 4391796035669
+2019-06-12 19:28:08 INFO  MainClass:67 - null GhRg 7753176228635
+2019-06-12 19:28:08 INFO  MainClass:67 - null haAI 7703011181172
+2019-06-12 19:28:08 INFO  MainClass:67 - null eVFS 2761341627664
+2019-06-12 19:28:08 INFO  MainClass:67 - null PvAW 3196111243595
+2019-06-12 19:28:08 INFO  MainClass:75 - COIu (1) 
+2019-06-12 19:28:08 INFO  MainClass:75 - QKQy (3) 
+2019-06-12 19:28:08 INFO  MainClass:75 - QWCG (2) 
+2019-06-12 19:28:08 INFO  MainClass:75 - bkzT (6) 
+2019-06-12 19:28:08 INFO  MainClass:75 - eBQr (9) 
+2019-06-12 19:28:08 INFO  MainClass:75 - kQWz (8) 
+2019-06-12 19:28:08 INFO  MainClass:75 - oXSM (5) 
+2019-06-12 19:28:08 INFO  MainClass:75 - tFcD (4) 
+2019-06-12 19:28:08 INFO  MainClass:75 - wqKN (10) 
+2019-06-12 19:28:08 INFO  MainClass:75 - yxqw (7) 
+2019-06-12 19:28:08 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:28:08 INFO  MainClass:199 - [UApfl oAqHg (ID: 2894), WIisG pLBZY (ID: 5844), vNMsJ brdVS (ID: 1163), lknCN ccArn (ID: 111), IBUID rDzEU (ID: 8895)]
+2019-06-12 19:28:08 INFO  MainClass:199 - [cSZZU tkqXw (ID: 1540), haMYE TUYub (ID: 1669), unLQT yFHkb (ID: 9279)]
+2019-06-12 19:28:08 INFO  MainClass:199 - [UmJzJ CAQMq (ID: 3171), WWnoQ GWrtQ (ID: 5110), OgXTM zSSbc (ID: 6386), rDnsg eBUxT (ID: 33)]
+2019-06-12 19:28:08 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:28:08 INFO  MainClass:87 - 29.0
+2019-06-12 19:28:08 INFO  MainClass:156 - Eldest employee is: VDrzJ IpAiy (ID: 623)
+2019-06-12 19:28:08 INFO  MainClass:114 - 0
+2019-06-12 19:28:08 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:28:13 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:13 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:18 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:18 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:23 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:23 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:28 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:28 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:33 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:33 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:38 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:38 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:43 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:43 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:28:48 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 521
+2019-06-12 19:28:48 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 49
+2019-06-12 19:29:12 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:29:12 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:29:12 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:29:12 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:29:12 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:29:12 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:29:12 INFO  MainClass:176 - REGULAR
+2019-06-12 19:29:12 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:29:12 INFO  MainClass:178 - false
+2019-06-12 19:29:12 INFO  MainClass:236 - 19
+2019-06-12 19:29:12 INFO  MainClass:244 - 20
+2019-06-12 19:29:12 INFO  MainClass:67 - null tIQy 4062923907833
+2019-06-12 19:29:12 INFO  MainClass:67 - null wIqk 9687875618032
+2019-06-12 19:29:12 INFO  MainClass:67 - null JrKA 3283839089676
+2019-06-12 19:29:12 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:29:12 INFO  MainClass:67 - null IhBx 9648030436888
+2019-06-12 19:29:12 INFO  MainClass:67 - null umEr 4166109952062
+2019-06-12 19:29:12 INFO  MainClass:67 - null jnAt 0054715806320
+2019-06-12 19:29:12 INFO  MainClass:67 - null UqUk 1279320707874
+2019-06-12 19:29:12 INFO  MainClass:67 - null Lfvb 1635208271865
+2019-06-12 19:29:12 INFO  MainClass:67 - null ERZE 3742047509100
+2019-06-12 19:29:12 INFO  MainClass:67 - null hxmv 0914748548256
+2019-06-12 19:29:12 INFO  MainClass:67 - null TMKu 0105223954787
+2019-06-12 19:29:12 INFO  MainClass:67 - null ClKv 4241870763794
+2019-06-12 19:29:12 INFO  MainClass:67 - null uHFK 6843008731591
+2019-06-12 19:29:12 INFO  MainClass:67 - null WnFS 8948993810154
+2019-06-12 19:29:12 INFO  MainClass:67 - null ggtJ 4741983209776
+2019-06-12 19:29:12 INFO  MainClass:67 - null ZOHb 4123159416447
+2019-06-12 19:29:12 INFO  MainClass:67 - null Zkla 7179692383735
+2019-06-12 19:29:12 INFO  MainClass:67 - null MozV 9352606956533
+2019-06-12 19:29:12 INFO  MainClass:67 - null Kszr 1141729797642
+2019-06-12 19:29:12 INFO  MainClass:75 - Mhiq (9) 
+2019-06-12 19:29:12 INFO  MainClass:75 - Rqav (6) 
+2019-06-12 19:29:12 INFO  MainClass:75 - SjiL (4) 
+2019-06-12 19:29:12 INFO  MainClass:75 - ThNl (10) 
+2019-06-12 19:29:12 INFO  MainClass:75 - YNSQ (3) 
+2019-06-12 19:29:12 INFO  MainClass:75 - ZGOz (1) 
+2019-06-12 19:29:12 INFO  MainClass:75 - Zyfh (8) 
+2019-06-12 19:29:12 INFO  MainClass:75 - hBSB (7) 
+2019-06-12 19:29:12 INFO  MainClass:75 - laLN (2) 
+2019-06-12 19:29:12 INFO  MainClass:75 - qaxU (5) 
+2019-06-12 19:29:12 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:29:12 INFO  MainClass:199 - [bFuCe ywqdL (ID: 5881), SbkbB bkoXZ (ID: 7169), yqpNg puKAG (ID: 9002)]
+2019-06-12 19:29:12 INFO  MainClass:199 - [YFwKe uEEuH (ID: 8113), guwJm VPZiU (ID: 2165), mScrc LZDdj (ID: 4068), TVbPf ytcPd (ID: 4896), VWQOo Rxprx (ID: 6890)]
+2019-06-12 19:29:12 INFO  MainClass:199 - [UYfsH qcEqd (ID: 9999), gmYRQ mwujg (ID: 6325), rNmEA VuOdb (ID: 6353), KiFea CFRCZ (ID: 87)]
+2019-06-12 19:29:12 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:29:12 INFO  MainClass:87 - 63.5
+2019-06-12 19:29:12 INFO  MainClass:156 - Eldest employee is: OIBtW JZYQV (ID: 3233)
+2019-06-12 19:29:12 INFO  MainClass:114 - 0
+2019-06-12 19:29:12 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:29:17 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 592
+2019-06-12 19:29:17 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 48
+2019-06-12 19:29:22 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 592
+2019-06-12 19:29:22 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 48
+2019-06-12 19:29:27 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 592
+2019-06-12 19:29:27 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 48
+2019-06-12 19:29:32 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 592
+2019-06-12 19:29:32 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 48
+2019-06-12 19:30:33 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:30:33 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:30:33 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:30:33 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:30:33 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:30:33 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:30:33 INFO  MainClass:176 - REGULAR
+2019-06-12 19:30:33 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:30:33 INFO  MainClass:178 - false
+2019-06-12 19:30:33 INFO  MainClass:236 - 19
+2019-06-12 19:30:33 INFO  MainClass:244 - 20
+2019-06-12 19:30:33 INFO  MainClass:67 - null piMw 8192745732317
+2019-06-12 19:30:33 INFO  MainClass:67 - null WBTf 2071792170665
+2019-06-12 19:30:33 INFO  MainClass:67 - null iIQU 8179826152205
+2019-06-12 19:30:33 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:30:33 INFO  MainClass:67 - null TWpQ 6558009807706
+2019-06-12 19:30:33 INFO  MainClass:67 - null cBha 9241840962686
+2019-06-12 19:30:33 INFO  MainClass:67 - null ypNd 8188207751247
+2019-06-12 19:30:33 INFO  MainClass:67 - null hmVG 3054357512552
+2019-06-12 19:30:33 INFO  MainClass:67 - null WMGh 9407077655302
+2019-06-12 19:30:33 INFO  MainClass:67 - null LxFC 6994635903632
+2019-06-12 19:30:33 INFO  MainClass:67 - null OkwS 3024209235613
+2019-06-12 19:30:33 INFO  MainClass:67 - null fvCU 6035032269482
+2019-06-12 19:30:33 INFO  MainClass:67 - null gmTq 5508406353819
+2019-06-12 19:30:33 INFO  MainClass:67 - null YOHt 3605404825234
+2019-06-12 19:30:33 INFO  MainClass:67 - null lSuj 8950222222834
+2019-06-12 19:30:33 INFO  MainClass:67 - null JKor 8635509707520
+2019-06-12 19:30:33 INFO  MainClass:67 - null kvud 4973257508012
+2019-06-12 19:30:33 INFO  MainClass:67 - null AQXv 6617475427402
+2019-06-12 19:30:33 INFO  MainClass:67 - null aQsG 3387368733139
+2019-06-12 19:30:33 INFO  MainClass:67 - null SkYz 5331066132013
+2019-06-12 19:30:33 INFO  MainClass:75 - ByYH (5) 
+2019-06-12 19:30:33 INFO  MainClass:75 - JUYE (7) 
+2019-06-12 19:30:33 INFO  MainClass:75 - PZfI (6) 
+2019-06-12 19:30:33 INFO  MainClass:75 - RSxb (2) 
+2019-06-12 19:30:33 INFO  MainClass:75 - WSMz (1) 
+2019-06-12 19:30:33 INFO  MainClass:75 - WUbk (3) 
+2019-06-12 19:30:33 INFO  MainClass:75 - ZrYf (10) 
+2019-06-12 19:30:33 INFO  MainClass:75 - aPXO (4) 
+2019-06-12 19:30:33 INFO  MainClass:75 - duYu (8) 
+2019-06-12 19:30:33 INFO  MainClass:75 - mKqH (9) 
+2019-06-12 19:30:33 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:30:33 INFO  MainClass:199 - [CLdiw ipEvj (ID: 6164), yqhoc Sojpg (ID: 7700), RtREB KKbxj (ID: 3224), Qkgwf NcDmh (ID: 8446)]
+2019-06-12 19:30:33 INFO  MainClass:199 - [SRBmY UiDGZ (ID: 656), pxzdj TRzWt (ID: 3666), wbQCQ eiSJb (ID: 7411), epQoM PoFCV (ID: 2606), TeWHQ Kxlyy (ID: 4476)]
+2019-06-12 19:30:33 INFO  MainClass:199 - [UnxeI BqDZZ (ID: 6520), XThrn TSagb (ID: 9835), bxEZc bXOrb (ID: 1243)]
+2019-06-12 19:30:33 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:30:33 INFO  MainClass:87 - 16.25
+2019-06-12 19:30:33 INFO  MainClass:156 - Eldest employee is: CkCHv hjtKy (ID: 4118)
+2019-06-12 19:30:33 INFO  MainClass:114 - 0
+2019-06-12 19:30:33 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:30:38 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 57
+2019-06-12 19:30:38 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 6
+2019-06-12 19:30:43 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 57
+2019-06-12 19:30:43 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 6
+2019-06-12 19:30:48 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 57
+2019-06-12 19:30:48 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 6
+2019-06-12 19:30:53 INFO  Hotel Statistics Thread:363 - Number of people that have checked in: 57
+2019-06-12 19:30:53 INFO  Hotel Statistics Thread:366 - Number of check-ins before 12 p.m. : 6
+2019-06-12 19:34:20 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:34:20 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:34:20 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:34:20 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:34:20 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:34:20 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:34:20 INFO  MainClass:176 - REGULAR
+2019-06-12 19:34:20 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:34:20 INFO  MainClass:178 - false
+2019-06-12 19:34:20 INFO  MainClass:236 - 19
+2019-06-12 19:34:20 INFO  MainClass:244 - 20
+2019-06-12 19:34:20 INFO  MainClass:67 - null MWGf 0651588383061
+2019-06-12 19:34:20 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:34:20 INFO  MainClass:67 - null VopB 9979439430663
+2019-06-12 19:34:20 INFO  MainClass:67 - null hxGg 7835731638706
+2019-06-12 19:34:20 INFO  MainClass:67 - null RdzL 8431046109839
+2019-06-12 19:34:20 INFO  MainClass:67 - null NqQa 5867951794461
+2019-06-12 19:34:20 INFO  MainClass:67 - null cxja 7183347766489
+2019-06-12 19:34:20 INFO  MainClass:67 - null tkOU 4852278772862
+2019-06-12 19:34:20 INFO  MainClass:67 - null QZup 7851052204296
+2019-06-12 19:34:20 INFO  MainClass:67 - null KzFX 8157796505103
+2019-06-12 19:34:20 INFO  MainClass:67 - null isey 2358337711313
+2019-06-12 19:34:20 INFO  MainClass:67 - null YBrz 6695513526546
+2019-06-12 19:34:20 INFO  MainClass:67 - null aSeY 9718183335597
+2019-06-12 19:34:20 INFO  MainClass:67 - null PEWA 2554040509254
+2019-06-12 19:34:20 INFO  MainClass:67 - null GiXI 8915780956929
+2019-06-12 19:34:20 INFO  MainClass:67 - null MoyX 6191354845944
+2019-06-12 19:34:20 INFO  MainClass:67 - null nGAy 2190323274896
+2019-06-12 19:34:20 INFO  MainClass:67 - null HNrS 7056152870738
+2019-06-12 19:34:20 INFO  MainClass:67 - null PBmm 6489926663139
+2019-06-12 19:34:20 INFO  MainClass:67 - null vWkP 4244565632792
+2019-06-12 19:34:20 INFO  MainClass:75 - GPHC (9) 
+2019-06-12 19:34:20 INFO  MainClass:75 - LiCq (5) 
+2019-06-12 19:34:20 INFO  MainClass:75 - QAex (8) 
+2019-06-12 19:34:20 INFO  MainClass:75 - RWQV (10) 
+2019-06-12 19:34:20 INFO  MainClass:75 - YIBV (3) 
+2019-06-12 19:34:20 INFO  MainClass:75 - hfvl (4) 
+2019-06-12 19:34:20 INFO  MainClass:75 - oYaN (7) 
+2019-06-12 19:34:20 INFO  MainClass:75 - uiUR (6) 
+2019-06-12 19:34:20 INFO  MainClass:75 - xnkN (1) 
+2019-06-12 19:34:20 INFO  MainClass:75 - zMrx (2) 
+2019-06-12 19:34:20 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:34:20 INFO  MainClass:199 - [RESLO LGjkC (ID: 5638), vuqtI ddLyz (ID: 6022), PoavH nNllq (ID: 7218), IwVuZ NPMic (ID: 3032)]
+2019-06-12 19:34:20 INFO  MainClass:199 - [fwoun bkTGa (ID: 1161), URcRF YFvak (ID: 1171), nnmuf AEWFU (ID: 3332)]
+2019-06-12 19:34:20 INFO  MainClass:199 - [zVgPg iuuKO (ID: 1811), BIoSm gjQdo (ID: 1361), eIvrp JYYLU (ID: 6456), cyVGw tIMdv (ID: 1583), oJbDd ORHxP (ID: 809)]
+2019-06-12 19:34:20 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:34:20 INFO  MainClass:87 - 48.5
+2019-06-12 19:34:20 INFO  MainClass:156 - Eldest employee is: ifYRj oOoRS (ID: 5104)
+2019-06-12 19:34:20 INFO  MainClass:114 - 0
+2019-06-12 19:34:20 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:35:00 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 61
+2019-06-12 19:35:00 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 4
+2019-06-12 19:35:05 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 61
+2019-06-12 19:35:05 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 4
+2019-06-12 19:35:10 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 61
+2019-06-12 19:35:10 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 4
+2019-06-12 19:35:15 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 61
+2019-06-12 19:35:15 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 4
+2019-06-12 19:35:20 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 61
+2019-06-12 19:35:20 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 4
+2019-06-12 19:35:25 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 61
+2019-06-12 19:35:25 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 4
+2019-06-12 19:36:23 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:36:23 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:36:23 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:36:23 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:36:23 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:36:23 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:36:23 INFO  MainClass:176 - REGULAR
+2019-06-12 19:36:23 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:36:23 INFO  MainClass:178 - false
+2019-06-12 19:36:23 INFO  MainClass:236 - 19
+2019-06-12 19:36:23 INFO  MainClass:244 - 20
+2019-06-12 19:36:23 INFO  MainClass:67 - null IIDB 7782382076166
+2019-06-12 19:36:23 INFO  MainClass:67 - null dtun 3410458361340
+2019-06-12 19:36:23 INFO  MainClass:67 - null yfEH 0297525380064
+2019-06-12 19:36:23 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:36:23 INFO  MainClass:67 - null RSkb 5284043843707
+2019-06-12 19:36:23 INFO  MainClass:67 - null hReA 6229747211458
+2019-06-12 19:36:23 INFO  MainClass:67 - null bxfu 5667629719968
+2019-06-12 19:36:23 INFO  MainClass:67 - null SehO 0242338446702
+2019-06-12 19:36:23 INFO  MainClass:67 - null feJo 2289833302127
+2019-06-12 19:36:23 INFO  MainClass:67 - null mxPc 9468007419579
+2019-06-12 19:36:23 INFO  MainClass:67 - null aaIO 2482856535726
+2019-06-12 19:36:23 INFO  MainClass:67 - null ZaqA 2105799929799
+2019-06-12 19:36:23 INFO  MainClass:67 - null jCnU 7558989794777
+2019-06-12 19:36:23 INFO  MainClass:67 - null rSnW 2951920011120
+2019-06-12 19:36:23 INFO  MainClass:67 - null HPqC 7408628706819
+2019-06-12 19:36:23 INFO  MainClass:67 - null ffKk 7862664327925
+2019-06-12 19:36:23 INFO  MainClass:67 - null RwSJ 4781914832024
+2019-06-12 19:36:23 INFO  MainClass:67 - null CVDi 2115680367725
+2019-06-12 19:36:23 INFO  MainClass:67 - null wwlP 0556473286993
+2019-06-12 19:36:23 INFO  MainClass:67 - null Zzay 8911702191692
+2019-06-12 19:36:23 INFO  MainClass:75 - Btrw (4) 
+2019-06-12 19:36:23 INFO  MainClass:75 - EvCz (7) 
+2019-06-12 19:36:23 INFO  MainClass:75 - JUih (5) 
+2019-06-12 19:36:23 INFO  MainClass:75 - SAJg (8) 
+2019-06-12 19:36:23 INFO  MainClass:75 - SVto (3) 
+2019-06-12 19:36:23 INFO  MainClass:75 - TACn (9) 
+2019-06-12 19:36:23 INFO  MainClass:75 - TZzk (1) 
+2019-06-12 19:36:23 INFO  MainClass:75 - ZuFu (2) 
+2019-06-12 19:36:23 INFO  MainClass:75 - oWfU (6) 
+2019-06-12 19:36:23 INFO  MainClass:75 - wTKD (10) 
+2019-06-12 19:36:23 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:36:23 INFO  MainClass:199 - [pacJp wUWAt (ID: 2194), HTKee fTaXg (ID: 2727), oGFfX WlfsU (ID: 1092), CFKzC Tzdix (ID: 8791)]
+2019-06-12 19:36:23 INFO  MainClass:199 - [tzJsk JDiBr (ID: 3640), kHUmT wwUsi (ID: 4616), SpSZb yXUwX (ID: 1331), ZUZly LuaWe (ID: 5812), xLgZP fbdZK (ID: 895)]
+2019-06-12 19:36:23 INFO  MainClass:199 - [DWzyP QbBsa (ID: 4733), EPpXJ YASqa (ID: 4135), FNkmB wzZwb (ID: 7337)]
+2019-06-12 19:36:23 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:36:23 INFO  MainClass:87 - 58.25
+2019-06-12 19:36:23 INFO  MainClass:156 - Eldest employee is: hADlD nRJvT (ID: 2024)
+2019-06-12 19:36:23 INFO  MainClass:114 - 0
+2019-06-12 19:36:23 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:36:33 INFO  Hotel Statistics Thread:368 - Number of people that have checked in: 9
+2019-06-12 19:36:33 INFO  Hotel Statistics Thread:371 - Number of check-ins before 12 p.m. : 1
+2019-06-12 19:41:01 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:41:01 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:41:01 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:41:01 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:41:01 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:41:01 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:41:01 INFO  MainClass:176 - REGULAR
+2019-06-12 19:41:01 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:41:01 INFO  MainClass:178 - false
+2019-06-12 19:41:01 INFO  MainClass:236 - 19
+2019-06-12 19:41:01 INFO  MainClass:244 - 20
+2019-06-12 19:41:01 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:41:01 INFO  MainClass:67 - null qcSS 6724232098919
+2019-06-12 19:41:01 INFO  MainClass:67 - null XrxC 5636324254306
+2019-06-12 19:41:01 INFO  MainClass:67 - null YOAv 7399869924490
+2019-06-12 19:41:01 INFO  MainClass:67 - null HRla 7281494349771
+2019-06-12 19:41:01 INFO  MainClass:67 - null Wckj 9826981777817
+2019-06-12 19:41:01 INFO  MainClass:67 - null ottr 8870710649173
+2019-06-12 19:41:01 INFO  MainClass:67 - null DHCG 7253371296799
+2019-06-12 19:41:01 INFO  MainClass:67 - null wrMX 0473597826928
+2019-06-12 19:41:01 INFO  MainClass:67 - null jagw 5281157438870
+2019-06-12 19:41:01 INFO  MainClass:67 - null XNGn 5067228287720
+2019-06-12 19:41:01 INFO  MainClass:67 - null YhNR 6820080766934
+2019-06-12 19:41:01 INFO  MainClass:67 - null VEzW 0985035906853
+2019-06-12 19:41:01 INFO  MainClass:67 - null Xmyj 6825681317135
+2019-06-12 19:41:01 INFO  MainClass:67 - null ohIg 3574356863889
+2019-06-12 19:41:01 INFO  MainClass:67 - null rFJb 4485006363610
+2019-06-12 19:41:01 INFO  MainClass:67 - null avQk 3542036818619
+2019-06-12 19:41:01 INFO  MainClass:67 - null ScJn 2599821565239
+2019-06-12 19:41:01 INFO  MainClass:67 - null enra 8360230812388
+2019-06-12 19:41:01 INFO  MainClass:67 - null wMGQ 6171073049335
+2019-06-12 19:41:01 INFO  MainClass:75 - ETNm (3) 
+2019-06-12 19:41:01 INFO  MainClass:75 - Ndxs (2) 
+2019-06-12 19:41:01 INFO  MainClass:75 - OzuZ (9) 
+2019-06-12 19:41:01 INFO  MainClass:75 - PKsE (6) 
+2019-06-12 19:41:01 INFO  MainClass:75 - ZqDn (4) 
+2019-06-12 19:41:01 INFO  MainClass:75 - jQle (5) 
+2019-06-12 19:41:01 INFO  MainClass:75 - nKOA (8) 
+2019-06-12 19:41:01 INFO  MainClass:75 - pGAd (1) 
+2019-06-12 19:41:01 INFO  MainClass:75 - pZyE (10) 
+2019-06-12 19:41:01 INFO  MainClass:75 - xBcG (7) 
+2019-06-12 19:41:01 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:41:01 INFO  MainClass:199 - [DnaeR fGhfS (ID: 4006), WRiNc UXqDD (ID: 4687), dzQKR VIxKK (ID: 257), fqFVI KLKql (ID: 6981)]
+2019-06-12 19:41:01 INFO  MainClass:199 - [oGhhd KXfRd (ID: 7673), EUgtU yJiuh (ID: 6748), VvPBN zYEHd (ID: 4654), HRXMA xbVjd (ID: 1464), WIiZz JmPkm (ID: 3043)]
+2019-06-12 19:41:01 INFO  MainClass:199 - [WmJqm gliub (ID: 9954), UwDUa kMjGV (ID: 6783), LGGaU skfZl (ID: 9199)]
+2019-06-12 19:41:01 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:41:01 INFO  MainClass:87 - 38.0
+2019-06-12 19:41:01 INFO  MainClass:156 - Eldest employee is: GEpzx ZMeLW (ID: 9746)
+2019-06-12 19:41:01 INFO  MainClass:114 - 1
+2019-06-12 19:41:01 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:41:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:41:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:41:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:41:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:41:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:41:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:41:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:41:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 72
+2019-06-12 19:42:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 0
+2019-06-12 19:42:52 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:42:52 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:42:52 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:42:52 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:42:52 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:42:52 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:42:52 INFO  MainClass:176 - REGULAR
+2019-06-12 19:42:52 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:42:52 INFO  MainClass:178 - false
+2019-06-12 19:42:52 INFO  MainClass:236 - 19
+2019-06-12 19:42:52 INFO  MainClass:244 - 20
+2019-06-12 19:42:52 INFO  MainClass:67 - null zGPX 6243725402304
+2019-06-12 19:42:52 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:42:53 INFO  MainClass:67 - null QKvi 2559459913856
+2019-06-12 19:42:53 INFO  MainClass:67 - null OKHJ 0401226020117
+2019-06-12 19:42:53 INFO  MainClass:67 - null TKqt 8970669225493
+2019-06-12 19:42:53 INFO  MainClass:67 - null winh 5539598528119
+2019-06-12 19:42:53 INFO  MainClass:67 - null Yhlx 0424651744870
+2019-06-12 19:42:53 INFO  MainClass:67 - null LTHg 7158998300624
+2019-06-12 19:42:53 INFO  MainClass:67 - null aqNS 1403841166567
+2019-06-12 19:42:53 INFO  MainClass:67 - null LDSe 3181234601307
+2019-06-12 19:42:53 INFO  MainClass:67 - null KYSw 6522933134378
+2019-06-12 19:42:53 INFO  MainClass:67 - null yGmM 6493188169854
+2019-06-12 19:42:53 INFO  MainClass:67 - null zTRi 6507993357125
+2019-06-12 19:42:53 INFO  MainClass:67 - null hPgJ 7457375692947
+2019-06-12 19:42:53 INFO  MainClass:67 - null aWLV 3288878551062
+2019-06-12 19:42:53 INFO  MainClass:67 - null ShOw 3185699318901
+2019-06-12 19:42:53 INFO  MainClass:67 - null jWBL 6532024209642
+2019-06-12 19:42:53 INFO  MainClass:67 - null plxi 8336801587528
+2019-06-12 19:42:53 INFO  MainClass:67 - null unPI 4490101302100
+2019-06-12 19:42:53 INFO  MainClass:67 - null kfSS 7155687522676
+2019-06-12 19:42:53 INFO  MainClass:75 - TtEB (8) 
+2019-06-12 19:42:53 INFO  MainClass:75 - XOji (1) 
+2019-06-12 19:42:53 INFO  MainClass:75 - cluF (7) 
+2019-06-12 19:42:53 INFO  MainClass:75 - dwaw (6) 
+2019-06-12 19:42:53 INFO  MainClass:75 - rFJj (5) 
+2019-06-12 19:42:53 INFO  MainClass:75 - vZXt (10) 
+2019-06-12 19:42:53 INFO  MainClass:75 - wRed (3) 
+2019-06-12 19:42:53 INFO  MainClass:75 - wliX (9) 
+2019-06-12 19:42:53 INFO  MainClass:75 - wtlg (2) 
+2019-06-12 19:42:53 INFO  MainClass:75 - yZow (4) 
+2019-06-12 19:42:53 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:42:53 INFO  MainClass:199 - [yVPrK DebPq (ID: 9870), NxUmE XDIKZ (ID: 9373), NGNmQ ShxMG (ID: 2847)]
+2019-06-12 19:42:53 INFO  MainClass:199 - [xmDjN hyENw (ID: 1391), XyRmU IIXcu (ID: 2143), NOQKB vwpHT (ID: 8221), olGPx hXYpc (ID: 2775)]
+2019-06-12 19:42:53 INFO  MainClass:199 - [hEUAa zZPqB (ID: 3668), YOacD TEdel (ID: 6692), YmtsZ pNZGP (ID: 4391), xbisE PGcrP (ID: 1813), mONxV gZYTB (ID: 5709)]
+2019-06-12 19:42:53 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:42:53 INFO  MainClass:87 - 48.0
+2019-06-12 19:42:53 INFO  MainClass:156 - Eldest employee is: nHLIw QefZw (ID: 7186)
+2019-06-12 19:42:53 INFO  MainClass:114 - 0
+2019-06-12 19:42:53 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:47:14 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 19:47:14 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 19:47:14 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 19:47:14 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 19:47:14 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 19:47:14 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 19:47:14 INFO  MainClass:176 - REGULAR
+2019-06-12 19:47:14 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 19:47:14 INFO  MainClass:178 - false
+2019-06-12 19:47:14 INFO  MainClass:236 - 19
+2019-06-12 19:47:14 INFO  MainClass:244 - 20
+2019-06-12 19:47:14 INFO  MainClass:67 - null lAhq 4492484771421
+2019-06-12 19:47:14 INFO  MainClass:67 - null LWzv 9473534502315
+2019-06-12 19:47:14 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 19:47:14 INFO  MainClass:67 - null SmKH 7147720498470
+2019-06-12 19:47:14 INFO  MainClass:67 - null GSfb 3396677817466
+2019-06-12 19:47:14 INFO  MainClass:67 - null BuZG 6358311623819
+2019-06-12 19:47:14 INFO  MainClass:67 - null YGQg 2300103820841
+2019-06-12 19:47:14 INFO  MainClass:67 - null nywm 0175232589347
+2019-06-12 19:47:14 INFO  MainClass:67 - null aUHW 3742720911956
+2019-06-12 19:47:14 INFO  MainClass:67 - null dNNh 1301735043390
+2019-06-12 19:47:14 INFO  MainClass:67 - null UoKZ 4294605986681
+2019-06-12 19:47:14 INFO  MainClass:67 - null FyMA 6779825705362
+2019-06-12 19:47:14 INFO  MainClass:67 - null hviF 3126420280223
+2019-06-12 19:47:14 INFO  MainClass:67 - null bXWW 0923421225818
+2019-06-12 19:47:14 INFO  MainClass:67 - null lCJX 9298694937071
+2019-06-12 19:47:14 INFO  MainClass:67 - null mFUK 6175646399314
+2019-06-12 19:47:14 INFO  MainClass:67 - null vKWh 4558057346781
+2019-06-12 19:47:14 INFO  MainClass:67 - null ytIT 3101142999681
+2019-06-12 19:47:14 INFO  MainClass:67 - null IivK 4627151463360
+2019-06-12 19:47:14 INFO  MainClass:67 - null OKQh 1418843497349
+2019-06-12 19:47:14 INFO  MainClass:75 - DMQD (10) 
+2019-06-12 19:47:14 INFO  MainClass:75 - DmuS (8) 
+2019-06-12 19:47:14 INFO  MainClass:75 - Jpcs (3) 
+2019-06-12 19:47:14 INFO  MainClass:75 - QiZV (7) 
+2019-06-12 19:47:14 INFO  MainClass:75 - Urqx (5) 
+2019-06-12 19:47:14 INFO  MainClass:75 - WDsA (6) 
+2019-06-12 19:47:14 INFO  MainClass:75 - aVBu (1) 
+2019-06-12 19:47:14 INFO  MainClass:75 - jVEX (2) 
+2019-06-12 19:47:14 INFO  MainClass:75 - mppL (9) 
+2019-06-12 19:47:14 INFO  MainClass:75 - qAMo (4) 
+2019-06-12 19:47:14 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 19:47:14 INFO  MainClass:199 - [xTnwJ ZjOXo (ID: 9227), EINmQ GYYPE (ID: 2912), JhmUN UaxCA (ID: 6297)]
+2019-06-12 19:47:14 INFO  MainClass:199 - [CrcbG gugom (ID: 5356), isFLV WnoBO (ID: 3853), Ynnjz HVgRF (ID: 1819), yamJF FPSLn (ID: 4907), DpNSk ZCMgt (ID: 4521)]
+2019-06-12 19:47:14 INFO  MainClass:199 - [UmYrM IXGwl (ID: 1603), dlRjF XXCfa (ID: 5337), wVfDJ GWUpV (ID: 5057), BUoIW bxTJM (ID: 2199)]
+2019-06-12 19:47:14 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 19:47:14 INFO  MainClass:87 - 36.0
+2019-06-12 19:47:14 INFO  MainClass:156 - Eldest employee is: yCrOt mtBJN (ID: 5128)
+2019-06-12 19:47:14 INFO  MainClass:114 - 0
+2019-06-12 19:47:14 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 19:53:55 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:53:55 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:00 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:00 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:05 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:05 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:10 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:10 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:15 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:15 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:20 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:20 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:25 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:25 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:30 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:30 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:54:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:54:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:55:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:55:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:56:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:56:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:57:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:57:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:58:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:58:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:41 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:41 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:46 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:46 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:51 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:51 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 19:59:56 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 19:59:56 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:01 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:01 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:06 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:06 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:36 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:36 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:42 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:42 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:47 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:47 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:52 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:52 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:00:57 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:00:57 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:02 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:02 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:07 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:07 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:12 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:12 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:17 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:17 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:22 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:22 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:27 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:27 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:32 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:32 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:37 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:37 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:42 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:42 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:47 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:47 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:52 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:52 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:01:57 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:01:57 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:02 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:02 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:07 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:07 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:12 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:12 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:17 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:17 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:22 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:22 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:27 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:27 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:32 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:32 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:37 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:37 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:42 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:42 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:47 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:47 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:52 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:52 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:02:57 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:02:57 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:02 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:02 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:07 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:07 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:12 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:12 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:17 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:17 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:22 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:22 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:27 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:27 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:32 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:32 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:37 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:37 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:42 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:42 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:47 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:47 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:03:52 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 475
+2019-06-12 20:03:52 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 51
+2019-06-12 20:11:07 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:11:07 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:11:07 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:11:07 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:11:07 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 20:11:07 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:11:07 INFO  MainClass:176 - REGULAR
+2019-06-12 20:11:07 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 20:11:07 INFO  MainClass:178 - false
+2019-06-12 20:11:07 INFO  MainClass:236 - 19
+2019-06-12 20:11:07 INFO  MainClass:244 - 20
+2019-06-12 20:11:07 INFO  MainClass:67 - null KdvP 9360224713043
+2019-06-12 20:11:07 INFO  MainClass:67 - null lSIk 9592786779048
+2019-06-12 20:11:07 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:11:07 INFO  MainClass:67 - null CCem 0166071422317
+2019-06-12 20:11:07 INFO  MainClass:67 - null CjqK 7111803931666
+2019-06-12 20:11:07 INFO  MainClass:67 - null zYZS 6099488964468
+2019-06-12 20:11:07 INFO  MainClass:67 - null cSes 5318430401842
+2019-06-12 20:11:07 INFO  MainClass:67 - null Rbee 5884501366580
+2019-06-12 20:11:07 INFO  MainClass:67 - null sNvA 9765107997649
+2019-06-12 20:11:07 INFO  MainClass:67 - null AUSp 8153518454987
+2019-06-12 20:11:07 INFO  MainClass:67 - null Bfkg 4486136459488
+2019-06-12 20:11:07 INFO  MainClass:67 - null hTdD 7822299532520
+2019-06-12 20:11:07 INFO  MainClass:67 - null vUdR 5675765291705
+2019-06-12 20:11:07 INFO  MainClass:67 - null Eiau 9426920267738
+2019-06-12 20:11:07 INFO  MainClass:67 - null ywtI 6778813019644
+2019-06-12 20:11:07 INFO  MainClass:67 - null PMqS 1620903257030
+2019-06-12 20:11:07 INFO  MainClass:67 - null DTDK 7395398832398
+2019-06-12 20:11:07 INFO  MainClass:67 - null uFrp 3398601576622
+2019-06-12 20:11:07 INFO  MainClass:67 - null CVwu 3043542481661
+2019-06-12 20:11:07 INFO  MainClass:67 - null sOZt 5567885430071
+2019-06-12 20:11:07 INFO  MainClass:75 - AYfS (9) 
+2019-06-12 20:11:07 INFO  MainClass:75 - CjhS (3) 
+2019-06-12 20:11:07 INFO  MainClass:75 - KzqK (2) 
+2019-06-12 20:11:07 INFO  MainClass:75 - QdmB (7) 
+2019-06-12 20:11:07 INFO  MainClass:75 - VXCw (6) 
+2019-06-12 20:11:07 INFO  MainClass:75 - WUJB (8) 
+2019-06-12 20:11:07 INFO  MainClass:75 - bifU (5) 
+2019-06-12 20:11:07 INFO  MainClass:75 - emPa (10) 
+2019-06-12 20:11:07 INFO  MainClass:75 - imqg (4) 
+2019-06-12 20:11:07 INFO  MainClass:75 - jjAZ (1) 
+2019-06-12 20:11:07 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 20:11:07 INFO  MainClass:199 - [HVupN epnWA (ID: 282), rWXYk dbgDs (ID: 654), ukObb ynFOi (ID: 9379), pRLRu BPJPe (ID: 5210)]
+2019-06-12 20:11:07 INFO  MainClass:199 - [UEzVF daHES (ID: 8754), gWSou Cyxzv (ID: 1852), dCAeW sKnpk (ID: 8109), nEBNL yvkcc (ID: 7480), bXweb sgVCn (ID: 2106)]
+2019-06-12 20:11:07 INFO  MainClass:199 - [QVcJj NhAMW (ID: 9026), cknvY vpLBn (ID: 9716), soKhZ kspSW (ID: 3781)]
+2019-06-12 20:11:07 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:11:07 INFO  MainClass:87 - 42.25
+2019-06-12 20:11:07 INFO  MainClass:156 - Eldest employee is: iURad MCJyd (ID: 381)
+2019-06-12 20:11:07 INFO  MainClass:114 - 0
+2019-06-12 20:11:07 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 20:11:12 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:11:12 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:11:17 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:11:17 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:11:22 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:11:22 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:11:27 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:11:27 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:11:32 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:11:32 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:11:37 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:11:37 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:12:15 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:12:15 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:12:15 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:12:15 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:12:15 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 20:12:15 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:12:15 INFO  MainClass:176 - REGULAR
+2019-06-12 20:12:15 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 20:12:15 INFO  MainClass:178 - false
+2019-06-12 20:12:15 INFO  MainClass:236 - 19
+2019-06-12 20:12:15 INFO  MainClass:244 - 20
+2019-06-12 20:12:15 INFO  MainClass:67 - null jqgO 6432809386942
+2019-06-12 20:12:15 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:12:15 INFO  MainClass:67 - null IqPw 5904888862747
+2019-06-12 20:12:15 INFO  MainClass:67 - null ltyZ 1970564581053
+2019-06-12 20:12:15 INFO  MainClass:67 - null PjaB 1462618783659
+2019-06-12 20:12:15 INFO  MainClass:67 - null veZr 5164241897044
+2019-06-12 20:12:15 INFO  MainClass:67 - null RYDw 0905717502287
+2019-06-12 20:12:15 INFO  MainClass:67 - null mTTk 5341798286071
+2019-06-12 20:12:15 INFO  MainClass:67 - null kUXG 8016258081392
+2019-06-12 20:12:15 INFO  MainClass:67 - null zaVU 9745125921240
+2019-06-12 20:12:15 INFO  MainClass:67 - null Yfit 4680399539930
+2019-06-12 20:12:15 INFO  MainClass:67 - null Cczv 8639258021265
+2019-06-12 20:12:15 INFO  MainClass:67 - null FybP 2509111548487
+2019-06-12 20:12:15 INFO  MainClass:67 - null nDhC 9906178067437
+2019-06-12 20:12:15 INFO  MainClass:67 - null sNUu 0812620165287
+2019-06-12 20:12:15 INFO  MainClass:67 - null tWAK 2662871102326
+2019-06-12 20:12:15 INFO  MainClass:67 - null PjiC 5805807519134
+2019-06-12 20:12:15 INFO  MainClass:67 - null eeMC 5706104129891
+2019-06-12 20:12:15 INFO  MainClass:67 - null neNE 8827015197313
+2019-06-12 20:12:15 INFO  MainClass:67 - null fRCc 1740041842392
+2019-06-12 20:12:15 INFO  MainClass:75 - BXqO (10) 
+2019-06-12 20:12:15 INFO  MainClass:75 - HbRE (5) 
+2019-06-12 20:12:15 INFO  MainClass:75 - WeJU (9) 
+2019-06-12 20:12:15 INFO  MainClass:75 - XWki (4) 
+2019-06-12 20:12:15 INFO  MainClass:75 - ZrLN (8) 
+2019-06-12 20:12:15 INFO  MainClass:75 - jFMp (6) 
+2019-06-12 20:12:15 INFO  MainClass:75 - jbaQ (7) 
+2019-06-12 20:12:15 INFO  MainClass:75 - jbjq (3) 
+2019-06-12 20:12:15 INFO  MainClass:75 - kXLa (1) 
+2019-06-12 20:12:15 INFO  MainClass:75 - pSQs (2) 
+2019-06-12 20:12:15 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 20:12:15 INFO  MainClass:199 - [rSCCR wPzQA (ID: 7141), mVBwJ Asdzy (ID: 5391), XnBWU DSCOm (ID: 3421), rjmAY tNFzg (ID: 6220)]
+2019-06-12 20:12:15 INFO  MainClass:199 - [kyVpg OJaTS (ID: 5039), blZQD RWeOc (ID: 3912), MmqYD dZRUD (ID: 5716), VhYdx npdIM (ID: 1638), gmHcN eaZkY (ID: 2919)]
+2019-06-12 20:12:15 INFO  MainClass:199 - [lirRL wxHyF (ID: 6236), ZoftA aEMMg (ID: 8188), CdUqb lBCTd (ID: 191)]
+2019-06-12 20:12:15 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:12:15 INFO  MainClass:87 - 53.5
+2019-06-12 20:12:15 INFO  MainClass:156 - Eldest employee is: MClom puRxn (ID: 4693)
+2019-06-12 20:12:15 INFO  MainClass:114 - 0
+2019-06-12 20:12:15 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 20:12:20 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:12:20 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:12:25 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:12:25 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:12:30 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:12:30 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:12:35 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:12:35 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:12:40 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 49
+2019-06-12 20:12:40 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:13:09 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:13:09 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:13:09 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:13:09 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:13:09 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 20:13:09 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:13:09 INFO  MainClass:176 - REGULAR
+2019-06-12 20:13:09 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 20:13:09 INFO  MainClass:178 - false
+2019-06-12 20:13:09 INFO  MainClass:236 - 19
+2019-06-12 20:13:09 INFO  MainClass:244 - 20
+2019-06-12 20:13:09 INFO  MainClass:67 - null zAmu 8341283159100
+2019-06-12 20:13:09 INFO  MainClass:67 - null hUDC 0627280911265
+2019-06-12 20:13:09 INFO  MainClass:67 - null zECY 2150120914120
+2019-06-12 20:13:09 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:13:09 INFO  MainClass:67 - null WffJ 9543976516086
+2019-06-12 20:13:09 INFO  MainClass:67 - null EFdJ 6383323130935
+2019-06-12 20:13:09 INFO  MainClass:67 - null tTUk 5113706453611
+2019-06-12 20:13:09 INFO  MainClass:67 - null fQZo 7122076444080
+2019-06-12 20:13:09 INFO  MainClass:67 - null itJN 8915938556696
+2019-06-12 20:13:09 INFO  MainClass:67 - null bSxL 2317769753900
+2019-06-12 20:13:09 INFO  MainClass:67 - null AYrH 2267037544553
+2019-06-12 20:13:09 INFO  MainClass:67 - null MABZ 2040607222235
+2019-06-12 20:13:09 INFO  MainClass:67 - null Fzmt 0403406957357
+2019-06-12 20:13:09 INFO  MainClass:67 - null WOiQ 0130259553761
+2019-06-12 20:13:09 INFO  MainClass:67 - null YYNk 7689194755702
+2019-06-12 20:13:09 INFO  MainClass:67 - null dSRm 9148184174436
+2019-06-12 20:13:09 INFO  MainClass:67 - null TXgk 4145339847204
+2019-06-12 20:13:09 INFO  MainClass:67 - null Kyis 7710452257743
+2019-06-12 20:13:09 INFO  MainClass:67 - null tkCI 3461884203530
+2019-06-12 20:13:09 INFO  MainClass:67 - null WrNf 9488128237622
+2019-06-12 20:13:10 INFO  MainClass:75 - DsCN (10) 
+2019-06-12 20:13:10 INFO  MainClass:75 - GIYj (5) 
+2019-06-12 20:13:10 INFO  MainClass:75 - MvQx (3) 
+2019-06-12 20:13:10 INFO  MainClass:75 - QFHV (6) 
+2019-06-12 20:13:10 INFO  MainClass:75 - XDJZ (8) 
+2019-06-12 20:13:10 INFO  MainClass:75 - ZKsJ (7) 
+2019-06-12 20:13:10 INFO  MainClass:75 - dIFt (1) 
+2019-06-12 20:13:10 INFO  MainClass:75 - eHOY (4) 
+2019-06-12 20:13:10 INFO  MainClass:75 - kcGz (9) 
+2019-06-12 20:13:10 INFO  MainClass:75 - xtIW (2) 
+2019-06-12 20:13:10 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 20:13:10 INFO  MainClass:199 - [IwXGC wyorw (ID: 8195), KxIUb dLAHu (ID: 252), pBeiR tJlQZ (ID: 833), TlyRY WjbwV (ID: 4842)]
+2019-06-12 20:13:10 INFO  MainClass:199 - [gwiEx XqihS (ID: 2333), zgiru lmNae (ID: 965), gPMBu srKpA (ID: 9831)]
+2019-06-12 20:13:10 INFO  MainClass:199 - [CiIcT UNzKh (ID: 6515), QavHv imbzA (ID: 4793), NaWLj aqZKZ (ID: 3434), PlGSI vxjmH (ID: 8487), CggsY uJdaB (ID: 7106)]
+2019-06-12 20:13:10 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:13:10 INFO  MainClass:87 - 54.0
+2019-06-12 20:13:10 INFO  MainClass:156 - Eldest employee is: ENhEk zgpTt (ID: 9908)
+2019-06-12 20:13:10 INFO  MainClass:114 - 1
+2019-06-12 20:13:10 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 20:13:15 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 29
+2019-06-12 20:13:15 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:13:20 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 29
+2019-06-12 20:13:20 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:13:25 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 29
+2019-06-12 20:13:25 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:13:56 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:13:56 INFO  MainClass:291 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:13:56 INFO  MainClass:291 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:13:56 INFO  MainClass:291 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:13:56 ERROR MainClass:170 - Employee age should be between 18 and 60
+2019-06-12 20:13:56 INFO  MainClass:274 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:13:56 INFO  MainClass:176 - REGULAR
+2019-06-12 20:13:56 INFO  MainClass:177 - can contain any type of ingredient
+2019-06-12 20:13:56 INFO  MainClass:178 - false
+2019-06-12 20:13:56 INFO  MainClass:236 - 19
+2019-06-12 20:13:56 INFO  MainClass:244 - 20
+2019-06-12 20:13:56 INFO  MainClass:67 - null QoHP 4074987934512
+2019-06-12 20:13:56 INFO  MainClass:67 - null uYUd 0003099465333
+2019-06-12 20:13:56 INFO  MainClass:67 - null HYHk 7131923009638
+2019-06-12 20:13:56 INFO  MainClass:67 - null FRLS 6111777797013
+2019-06-12 20:13:56 INFO  MainClass:67 - null MmqK 4333387708387
+2019-06-12 20:13:56 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:13:56 INFO  MainClass:67 - null PJoR 2738902855421
+2019-06-12 20:13:56 INFO  MainClass:67 - null OVIM 1073911845599
+2019-06-12 20:13:56 INFO  MainClass:67 - null oeRD 4669563951328
+2019-06-12 20:13:56 INFO  MainClass:67 - null yKeV 2743339801202
+2019-06-12 20:13:56 INFO  MainClass:67 - null eVVt 2651316537442
+2019-06-12 20:13:56 INFO  MainClass:67 - null ulCo 7412861516697
+2019-06-12 20:13:56 INFO  MainClass:67 - null DNFZ 7477823989911
+2019-06-12 20:13:56 INFO  MainClass:67 - null dzTS 7409301263457
+2019-06-12 20:13:56 INFO  MainClass:67 - null aSWx 2838674334222
+2019-06-12 20:13:56 INFO  MainClass:67 - null ZvsH 4809278735833
+2019-06-12 20:13:56 INFO  MainClass:67 - null GAkk 7850111179847
+2019-06-12 20:13:56 INFO  MainClass:67 - null deSe 7535766290182
+2019-06-12 20:13:56 INFO  MainClass:67 - null HFFj 8988011601750
+2019-06-12 20:13:56 INFO  MainClass:67 - null UFBd 0783404804962
+2019-06-12 20:13:56 INFO  MainClass:75 - DfcT (2) 
+2019-06-12 20:13:56 INFO  MainClass:75 - EeeT (6) 
+2019-06-12 20:13:56 INFO  MainClass:75 - OrUO (8) 
+2019-06-12 20:13:56 INFO  MainClass:75 - WmFT (1) 
+2019-06-12 20:13:56 INFO  MainClass:75 - fKhj (9) 
+2019-06-12 20:13:56 INFO  MainClass:75 - heeX (10) 
+2019-06-12 20:13:56 INFO  MainClass:75 - pRlB (3) 
+2019-06-12 20:13:56 INFO  MainClass:75 - sfeR (7) 
+2019-06-12 20:13:56 INFO  MainClass:75 - wkdA (4) 
+2019-06-12 20:13:56 INFO  MainClass:75 - zknL (5) 
+2019-06-12 20:13:56 INFO  MainClass:193 - EmployeesMap has 3 entries.
+2019-06-12 20:13:56 INFO  MainClass:199 - [QnjwW oAjoy (ID: 143), ioXWc Eeoar (ID: 4311), sUtPb EaUQC (ID: 2287)]
+2019-06-12 20:13:56 INFO  MainClass:199 - [VyjYJ WBqKE (ID: 7981), DoSyN zqRRX (ID: 8967), AwcDQ xqZaA (ID: 2318), LFJML Jrbij (ID: 1996), KnNBJ rXaZU (ID: 4713)]
+2019-06-12 20:13:56 INFO  MainClass:199 - [tOexz fkEEK (ID: 9521), VHHeb uqUue (ID: 6095), xRKpG XZFDg (ID: 5836), QqsNG fWXEE (ID: 6800)]
+2019-06-12 20:13:56 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:13:56 INFO  MainClass:87 - 69.25
+2019-06-12 20:13:56 INFO  MainClass:156 - Eldest employee is: nFTDR VGYWS (ID: 2744)
+2019-06-12 20:13:56 INFO  MainClass:114 - 0
+2019-06-12 20:13:56 INFO  MainClass:118 - There are available rooms: true
+2019-06-12 20:14:11 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 55
+2019-06-12 20:14:11 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:14:16 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 55
+2019-06-12 20:14:16 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:14:21 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 55
+2019-06-12 20:14:21 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:14:26 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 55
+2019-06-12 20:14:26 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:14:31 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 55
+2019-06-12 20:14:31 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:23:09 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:23:09 INFO  MainClass:296 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:23:09 INFO  MainClass:296 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:23:09 INFO  MainClass:296 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:23:09 ERROR MainClass:175 - Employee age should be between 18 and 60
+2019-06-12 20:23:09 INFO  MainClass:279 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:23:09 INFO  MainClass:181 - REGULAR
+2019-06-12 20:23:09 INFO  MainClass:182 - can contain any type of ingredient
+2019-06-12 20:23:09 INFO  MainClass:183 - false
+2019-06-12 20:23:09 INFO  MainClass:241 - 19
+2019-06-12 20:23:09 INFO  MainClass:249 - 20
+2019-06-12 20:23:09 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:23:09 INFO  MainClass:67 - null JFtt 4033914998743
+2019-06-12 20:23:09 INFO  MainClass:67 - null UfjF 1789692124564
+2019-06-12 20:23:09 INFO  MainClass:67 - null qqlq 0401705852643
+2019-06-12 20:23:09 INFO  MainClass:67 - null bSvf 2819544505702
+2019-06-12 20:23:09 INFO  MainClass:67 - null VhFm 8276922767261
+2019-06-12 20:23:09 INFO  MainClass:67 - null KQIg 2820551994527
+2019-06-12 20:23:09 INFO  MainClass:67 - null ozGD 7559178547935
+2019-06-12 20:23:09 INFO  MainClass:67 - null aWWU 9539356031482
+2019-06-12 20:23:09 INFO  MainClass:67 - null VGQZ 8927059209020
+2019-06-12 20:23:09 INFO  MainClass:67 - null DiFD 4222251641340
+2019-06-12 20:23:09 INFO  MainClass:67 - null wlTb 6401405986016
+2019-06-12 20:23:09 INFO  MainClass:67 - null ssxl 6723042418274
+2019-06-12 20:23:09 INFO  MainClass:67 - null eCrW 5882242210836
+2019-06-12 20:23:09 INFO  MainClass:67 - null cpck 1362852500374
+2019-06-12 20:23:09 INFO  MainClass:67 - null xbpb 3760544128753
+2019-06-12 20:23:09 INFO  MainClass:67 - null xMbm 9744999831398
+2019-06-12 20:23:09 INFO  MainClass:67 - null jjan 2780242070600
+2019-06-12 20:23:09 INFO  MainClass:67 - null YYJC 0189126965568
+2019-06-12 20:23:09 INFO  MainClass:67 - null MonJ 5911050214572
+2019-06-12 20:23:09 INFO  MainClass:75 - DPiJ (3) 
+2019-06-12 20:23:09 INFO  MainClass:75 - IGak (9) 
+2019-06-12 20:23:09 INFO  MainClass:75 - JhdL (2) 
+2019-06-12 20:23:09 INFO  MainClass:75 - WOHU (10) 
+2019-06-12 20:23:09 INFO  MainClass:75 - dsIg (4) 
+2019-06-12 20:23:09 INFO  MainClass:75 - gPlE (7) 
+2019-06-12 20:23:09 INFO  MainClass:75 - iCjy (1) 
+2019-06-12 20:23:09 INFO  MainClass:75 - kLCk (8) 
+2019-06-12 20:23:09 INFO  MainClass:75 - vdOy (6) 
+2019-06-12 20:23:09 INFO  MainClass:75 - wTBm (5) 
+2019-06-12 20:23:09 INFO  MainClass:198 - EmployeesMap has 3 entries.
+2019-06-12 20:23:09 INFO  MainClass:204 - [qqLEK hlrlb (ID: 5501), NCpww ECrFC (ID: 6164), GoseK PLvuL (ID: 2302)]
+2019-06-12 20:23:09 INFO  MainClass:204 - [sVphi vqYyC (ID: 7233), prtid YcXej (ID: 5248), Cgzfd qkxAF (ID: 5925), aKoFd gxPuU (ID: 1058)]
+2019-06-12 20:23:09 INFO  MainClass:204 - [CtDfS imDxp (ID: 7506), HkcnC Fxgbd (ID: 3596), Tgcdm PymED (ID: 8948), yEBhu CFiVv (ID: 850), ByVSP HdOxW (ID: 7782)]
+2019-06-12 20:23:09 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:23:09 INFO  MainClass:87 - 40.5
+2019-06-12 20:23:09 INFO  MainClass:161 - Eldest employee is: MemyE tljzN (ID: 9830)
+2019-06-12 20:23:09 INFO  MainClass:119 - 0
+2019-06-12 20:23:09 INFO  MainClass:123 - There are available rooms: true
+2019-06-12 20:23:14 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 36
+2019-06-12 20:23:14 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:23:19 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 46
+2019-06-12 20:23:19 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:23:24 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 51
+2019-06-12 20:23:24 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:23:30 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 57
+2019-06-12 20:23:30 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:23:35 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 58
+2019-06-12 20:23:35 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:23:40 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 60
+2019-06-12 20:23:40 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:23:45 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 60
+2019-06-12 20:23:45 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:23:50 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:23:50 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:23:55 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:23:55 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:24:00 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:24:00 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:24:05 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:24:05 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:24:10 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:24:10 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:24:15 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:24:15 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:24:20 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 66
+2019-06-12 20:24:20 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:24:37 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:24:37 INFO  MainClass:296 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:24:37 INFO  MainClass:296 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:24:37 INFO  MainClass:296 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:24:37 ERROR MainClass:175 - Employee age should be between 18 and 60
+2019-06-12 20:24:38 INFO  MainClass:279 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:24:38 INFO  MainClass:181 - REGULAR
+2019-06-12 20:24:38 INFO  MainClass:182 - can contain any type of ingredient
+2019-06-12 20:24:38 INFO  MainClass:183 - false
+2019-06-12 20:24:38 INFO  MainClass:241 - 19
+2019-06-12 20:24:38 INFO  MainClass:249 - 20
+2019-06-12 20:24:38 INFO  MainClass:67 - null npsj 6813275727864
+2019-06-12 20:24:38 INFO  MainClass:67 - null NbMg 0795726127231
+2019-06-12 20:24:38 INFO  MainClass:67 - null EBTM 6296646181463
+2019-06-12 20:24:38 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:24:38 INFO  MainClass:67 - null KMzF 5133819430758
+2019-06-12 20:24:38 INFO  MainClass:67 - null Wusy 7381460554837
+2019-06-12 20:24:38 INFO  MainClass:67 - null BuNR 9882250418503
+2019-06-12 20:24:38 INFO  MainClass:67 - null qjdj 8256067107235
+2019-06-12 20:24:38 INFO  MainClass:67 - null fSpk 0813611597219
+2019-06-12 20:24:38 INFO  MainClass:67 - null Wryz 4363386650055
+2019-06-12 20:24:38 INFO  MainClass:67 - null pYpW 9567938479596
+2019-06-12 20:24:38 INFO  MainClass:67 - null VVpl 8435422461364
+2019-06-12 20:24:38 INFO  MainClass:67 - null rvjO 1880352002350
+2019-06-12 20:24:38 INFO  MainClass:67 - null nqBZ 0474493884016
+2019-06-12 20:24:38 INFO  MainClass:67 - null tvwS 2658648043741
+2019-06-12 20:24:38 INFO  MainClass:67 - null aaPd 1920718945354
+2019-06-12 20:24:38 INFO  MainClass:67 - null kIRi 9904129898543
+2019-06-12 20:24:38 INFO  MainClass:67 - null ELTJ 2271392987887
+2019-06-12 20:24:38 INFO  MainClass:67 - null bbny 5749180909548
+2019-06-12 20:24:38 INFO  MainClass:67 - null dlQY 8186694845645
+2019-06-12 20:24:38 INFO  MainClass:75 - DVlQ (2) 
+2019-06-12 20:24:38 INFO  MainClass:75 - Fkqv (10) 
+2019-06-12 20:24:38 INFO  MainClass:75 - OEYV (1) 
+2019-06-12 20:24:38 INFO  MainClass:75 - hEkY (8) 
+2019-06-12 20:24:38 INFO  MainClass:75 - jNPH (9) 
+2019-06-12 20:24:38 INFO  MainClass:75 - oAgc (7) 
+2019-06-12 20:24:38 INFO  MainClass:75 - sMLM (4) 
+2019-06-12 20:24:38 INFO  MainClass:75 - spse (6) 
+2019-06-12 20:24:38 INFO  MainClass:75 - uuiV (5) 
+2019-06-12 20:24:38 INFO  MainClass:75 - yWNW (3) 
+2019-06-12 20:24:38 INFO  MainClass:198 - EmployeesMap has 3 entries.
+2019-06-12 20:24:38 INFO  MainClass:204 - [SNWDn YOiBZ (ID: 3551), iVJQg PGTko (ID: 5381), mSnaG JKOaD (ID: 9235)]
+2019-06-12 20:24:38 INFO  MainClass:204 - [Ocipk kVzAk (ID: 4136), piaAX alRuY (ID: 9685), wEPLc tqejr (ID: 3628), zQNtN NquWR (ID: 3904), cwHgf udCXP (ID: 780)]
+2019-06-12 20:24:38 INFO  MainClass:204 - [VtQWs BWvre (ID: 9510), SXWER mNIuf (ID: 9559), xSDuQ nvwoH (ID: 496), qawFs xNgdl (ID: 7637)]
+2019-06-12 20:24:38 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:24:38 INFO  MainClass:87 - 59.0
+2019-06-12 20:24:38 INFO  MainClass:161 - Eldest employee is: SvTsl yuKnq (ID: 3332)
+2019-06-12 20:24:38 INFO  MainClass:119 - 0
+2019-06-12 20:24:38 INFO  MainClass:123 - There are available rooms: true
+2019-06-12 20:24:43 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 23
+2019-06-12 20:24:43 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 2
+2019-06-12 20:24:48 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 24
+2019-06-12 20:24:48 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:24:53 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 26
+2019-06-12 20:24:53 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:24:58 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 36
+2019-06-12 20:24:58 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:25:03 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 38
+2019-06-12 20:25:03 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:25:08 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 45
+2019-06-12 20:25:08 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:25:13 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 45
+2019-06-12 20:25:13 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:25:18 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 53
+2019-06-12 20:25:18 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:23 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 53
+2019-06-12 20:25:23 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:28 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 61
+2019-06-12 20:25:28 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:33 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 62
+2019-06-12 20:25:33 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:38 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 62
+2019-06-12 20:25:38 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:43 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 62
+2019-06-12 20:25:43 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:48 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 68
+2019-06-12 20:25:48 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:53 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 68
+2019-06-12 20:25:53 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:25:58 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 70
+2019-06-12 20:25:58 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
+2019-06-12 20:26:44 INFO  MainClass:37 - Nico's Hotel is located at 51 Main Street, Cluj Napoca, Romania and has 32 rooms.
+2019-06-12 20:26:44 INFO  MainClass:296 - reservation 1,2019-05-01,2019-05-05
+2019-06-12 20:26:44 INFO  MainClass:296 - reservation 2,2019-05-03,2019-05-08
+2019-06-12 20:26:44 INFO  MainClass:296 - reservation 3,2019-05-04,2019-05-08
+2019-06-12 20:26:44 ERROR MainClass:175 - Employee age should be between 18 and 60
+2019-06-12 20:26:45 INFO  MainClass:279 - Nico's Hotel (51 Main Street, Cluj Napoca, Romania);
+2019-06-12 20:26:45 INFO  MainClass:181 - REGULAR
+2019-06-12 20:26:45 INFO  MainClass:182 - can contain any type of ingredient
+2019-06-12 20:26:45 INFO  MainClass:183 - false
+2019-06-12 20:26:45 INFO  MainClass:241 - 19
+2019-06-12 20:26:45 INFO  MainClass:249 - 20
+2019-06-12 20:26:45 INFO  MainClass:67 - null Victor 1050596555555
+2019-06-12 20:26:45 INFO  MainClass:67 - null xcwe 9136336855699
+2019-06-12 20:26:45 INFO  MainClass:67 - null GCYI 4784162834793
+2019-06-12 20:26:45 INFO  MainClass:67 - null cxeN 8022495058110
+2019-06-12 20:26:45 INFO  MainClass:67 - null HKiw 0875617755170
+2019-06-12 20:26:45 INFO  MainClass:67 - null yQpo 5524694701690
+2019-06-12 20:26:45 INFO  MainClass:67 - null CZKv 4035277732990
+2019-06-12 20:26:45 INFO  MainClass:67 - null omcu 6064327994423
+2019-06-12 20:26:45 INFO  MainClass:67 - null cxJF 5265676446106
+2019-06-12 20:26:45 INFO  MainClass:67 - null NZoj 4082965778966
+2019-06-12 20:26:45 INFO  MainClass:67 - null YlQB 6502029471216
+2019-06-12 20:26:45 INFO  MainClass:67 - null HKuU 2414914011004
+2019-06-12 20:26:45 INFO  MainClass:67 - null wcaY 1690488165628
+2019-06-12 20:26:45 INFO  MainClass:67 - null vFhT 3999470796276
+2019-06-12 20:26:45 INFO  MainClass:67 - null hAUZ 6904896085889
+2019-06-12 20:26:45 INFO  MainClass:67 - null HdNQ 0765439466823
+2019-06-12 20:26:45 INFO  MainClass:67 - null OQKs 7418149842164
+2019-06-12 20:26:45 INFO  MainClass:67 - null AjbE 9881212825382
+2019-06-12 20:26:45 INFO  MainClass:67 - null xUCZ 4728391914132
+2019-06-12 20:26:45 INFO  MainClass:67 - null lLSn 4370563926478
+2019-06-12 20:26:45 INFO  MainClass:75 - Flhl (4) 
+2019-06-12 20:26:45 INFO  MainClass:75 - HcDC (1) 
+2019-06-12 20:26:45 INFO  MainClass:75 - RiMn (5) 
+2019-06-12 20:26:45 INFO  MainClass:75 - UHVj (9) 
+2019-06-12 20:26:45 INFO  MainClass:75 - XDev (2) 
+2019-06-12 20:26:45 INFO  MainClass:75 - Xbfo (10) 
+2019-06-12 20:26:45 INFO  MainClass:75 - dPPY (3) 
+2019-06-12 20:26:45 INFO  MainClass:75 - flMj (7) 
+2019-06-12 20:26:45 INFO  MainClass:75 - mUCr (6) 
+2019-06-12 20:26:45 INFO  MainClass:75 - zgPe (8) 
+2019-06-12 20:26:45 INFO  MainClass:198 - EmployeesMap has 3 entries.
+2019-06-12 20:26:45 INFO  MainClass:204 - [yaRZb SPrUQ (ID: 6381), Wdlam WrpKO (ID: 4941), YkfPy RqayA (ID: 4636)]
+2019-06-12 20:26:45 INFO  MainClass:204 - [efFQL MqoMo (ID: 540), fgtDp YpOsr (ID: 5053), uYkrL bXNxo (ID: 9214), zAmEw jNHnN (ID: 8650), FwGGB oADDV (ID: 6616)]
+2019-06-12 20:26:45 INFO  MainClass:204 - [ZcjeP jpJdv (ID: 2951), syufE szphG (ID: 4505), rSWMM HJkGf (ID: 5697), GHdXr SaRQd (ID: 8372)]
+2019-06-12 20:26:45 INFO  MainClass:86 - Average age of random Employee list is: 
+2019-06-12 20:26:45 INFO  MainClass:87 - 36.75
+2019-06-12 20:26:45 INFO  MainClass:161 - Eldest employee is: Ufbst pPjGc (ID: 3722)
+2019-06-12 20:26:45 INFO  MainClass:119 - 0
+2019-06-12 20:26:45 INFO  MainClass:123 - There are available rooms: true
+2019-06-12 20:26:50 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 23
+2019-06-12 20:26:50 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 3
+2019-06-12 20:26:55 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 24
+2019-06-12 20:26:55 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:27:00 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 25
+2019-06-12 20:27:00 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 4
+2019-06-12 20:27:05 INFO  Hotel Statistics Thread:28 - Number of people that have checked in: 31
+2019-06-12 20:27:05 INFO  Hotel Statistics Thread:31 - Number of check-ins before 12 p.m. : 5
