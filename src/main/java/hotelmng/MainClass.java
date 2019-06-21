@@ -1,7 +1,6 @@
 package hotelmng;
 
 import hotelmng.exception.EmployeeAgeValidationException;
-import hotelmng.model.room.Room;
 import hotelmng.model.hotel.Hotel;
 import hotelmng.model.hotel.MealPreference;
 import hotelmng.model.hotel.Reservation;
@@ -9,6 +8,7 @@ import hotelmng.model.person.Client;
 import hotelmng.model.person.Employee;
 import hotelmng.model.person.HouseKeeper;
 import hotelmng.model.person.Receptionist;
+import hotelmng.model.room.Room;
 import hotelmng.service.EmployeeService;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
@@ -18,6 +18,7 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.sql.*;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -92,7 +93,109 @@ public class MainClass {
 
         streamOperationsExample();
 
-        threadExample();
+//        threadExample();
+        dbExample();
+    }
+
+    private static void dbExample() {
+
+        Connection connection = newConnection(
+                "localhost",
+                "5432",
+                "homework9",
+                "postgres",
+                "start",
+                "postgresql"
+        );
+
+        try {
+            //auto-commit set true (default)
+            PreparedStatement s = connection.prepareStatement("create table hotels (id uuid primary key, name varchar, address varchar, rooms int);");
+            s.execute();
+
+            Hotel hotel1 = new Hotel("Beethoven", "Address 1", 90);
+            Hotel hotel2 = new Hotel("Chopin", "Address 2", 80);
+            Hotel hotel3 = new Hotel("Verdi", "Address 3", 70);
+
+            List<Hotel> hotelList = Arrays.asList(hotel1, hotel2, hotel3);
+
+            // auto-commit set false; by setting the auto-commit to false you can work with transactions that allow the rollback to the start point in case of any error
+            connection.setAutoCommit(false);
+
+            //non-transactional
+            try{
+                PreparedStatement st = connection.prepareStatement("insert into hotels (name) values ('My Hotel');");
+                st.execute();
+                connection.commit();
+            }catch (SQLException e) {
+                connection.rollback();
+                System.out.println("rolling back");
+            }
+
+            //transactional flow
+            for (Hotel hotel : hotelList) {
+
+                PreparedStatement s1 = connection.prepareStatement("insert into hotels (id, name, address, rooms) values(?,?,?,?);");
+                s1.setObject(1, hotel.getId(), Types.OTHER);
+                s1.setString(2, hotel.getName());
+                s1.setString(3, hotel.getAddress());
+                s1.setInt(4, hotel.getNumberOfRooms());
+                s1.execute();
+                connection.commit();
+            }
+
+            PreparedStatement s2 = connection.prepareStatement("delete from hotels where name = 'Chopin'");
+            s2.execute();
+            connection.commit();
+
+            PreparedStatement s3 = connection.prepareStatement("update hotels set rooms = 40 where name = 'Verdi';");
+            s3.execute();
+            connection.commit();
+
+            Statement s4 = connection.createStatement();
+            ResultSet resultSet = s4.executeQuery("select name, rooms from hotels;");
+
+            int i=0;
+            while(resultSet.next()) {
+                hotelList.get(i).setName(resultSet.getString("name"));
+                hotelList.get(i).setNumberOfRooms(resultSet.getInt("rooms"));
+                i++;
+            }
+
+            System.out.println("\nMapped: \n");
+            hotelList.forEach(System.out::println);
+
+        } catch (SQLException e) {
+            try {
+                connection.rollback();
+            } catch (SQLException e1) {
+                e1.printStackTrace();
+            }
+            e.printStackTrace();
+        }
+
+
+    }
+
+    private static Connection newConnection(String host, String port, String dbName, String user, String password, String type) {
+        loadDriver();
+        String url = "jdbc:" + type + "://" + host + ":" + port + "/" + dbName + "?user=" + user + "&password=" + password;
+
+
+        try {
+            return DriverManager.getConnection(url);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    private static void loadDriver() {
+        try {
+            Class.forName("org.postgresql.Driver").newInstance();
+        } catch (IllegalAccessException | ClassNotFoundException | InstantiationException e) {
+            e.printStackTrace();
+        }
     }
 
     private static void threadExample() {
@@ -106,7 +209,7 @@ public class MainClass {
             ClientThread clientThread = new ClientThread(new CheckInData(), myHotel);
             clientThread.start();
             try {
-                Thread.sleep(i*1000);
+                Thread.sleep(i * 1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

@@ -1,8 +1,7 @@
 package hotelmng.model.hotel;
 
 import hotelmng.CheckInData;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 import java.io.Serializable;
 import java.util.LinkedList;
@@ -14,9 +13,11 @@ import java.util.UUID;
 
 @Getter
 @Setter
+@ToString
+
 public class Hotel implements Serializable {
 
-    private final int numberOfRooms;
+    private int numberOfRooms;
     private String name;
     private String address;
     private int capacity;
@@ -31,9 +32,11 @@ public class Hotel implements Serializable {
         this.id = UUID.randomUUID();
     }
 
-    @Override
-    public String toString() {
-        return this.name +
-                " (" + this.address + ");";
+    public Hotel(String name, String address, int numberOfRooms) {
+        this.name = name;
+        this.numberOfRooms = numberOfRooms;
+        this.address = address;
+
+        this.id = UUID.randomUUID();
     }
 }
